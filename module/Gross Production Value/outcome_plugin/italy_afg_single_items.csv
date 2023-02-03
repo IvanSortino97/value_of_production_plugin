@@ -1,0 +1,1501 @@
+"measuredItemCPC","measuredItemCPC_description","geographicAreaM49","geographicAreaM49_description","timePointYears","timePointYears_description","Value"
+"0111","Wheat","380","Italy","2015","2015",1751243.70798731
+"0111","Wheat","4","Afghanistan","2015","2015",1106719.51190352
+"0111","Wheat","380","Italy","2016","2016",1903615.15770954
+"0111","Wheat","4","Afghanistan","2016","2016",1078790.06297118
+"0111","Wheat","380","Italy","2017","2017",1649873.04720117
+"0111","Wheat","4","Afghanistan","2017","2017",1013819.33929269
+"0111","Wheat","380","Italy","2018","2018",1682599.5027317
+"0111","Wheat","4","Afghanistan","2018","2018",855740.5056154
+"0111","Wheat","380","Italy","2019","2019",1596113.65382886
+"0111","Wheat","4","Afghanistan","2019","2019",1158102.30882
+"0111","Wheat","380","Italy","2020","2020",1590597.86594084
+"0111","Wheat","4","Afghanistan","2020","2020",1227967.37653
+"0112","Maize (corn)","380","Italy","2015","2015",1419956.59863019
+"0112","Maize (corn)","4","Afghanistan","2015","2015",63431.281032
+"0112","Maize (corn)","380","Italy","2016","2016",1372905.6429971
+"0112","Maize (corn)","4","Afghanistan","2016","2016",62557.294330692
+"0112","Maize (corn)","380","Italy","2017","2017",1214126.7085151
+"0112","Maize (corn)","4","Afghanistan","2017","2017",34909.686540624
+"0112","Maize (corn)","380","Italy","2018","2018",1244367.1702833
+"0112","Maize (corn)","4","Afghanistan","2018","2018",21412.07198634
+"0112","Maize (corn)","380","Italy","2019","2019",1260419.70048624
+"0112","Maize (corn)","4","Afghanistan","2019","2019",37069.361074242
+"0112","Maize (corn)","380","Italy","2020","2020",1363597.90543326
+"0112","Maize (corn)","4","Afghanistan","2020","2020",54554.113397952
+"0113","Rice","380","Italy","2015","2015",593733.124235805
+"0113","Rice","4","Afghanistan","2015","2015",160338.51345
+"0113","Rice","380","Italy","2016","2016",620762.67797757
+"0113","Rice","4","Afghanistan","2016","2016",139441.712312925
+"0113","Rice","380","Italy","2017","2017",624939.691787715
+"0113","Rice","4","Afghanistan","2017","2017",132345.7554189
+"0113","Rice","380","Italy","2018","2018",574907.42740905
+"0113","Rice","4","Afghanistan","2018","2018",137725.699149465
+"0113","Rice","380","Italy","2019","2019",583718.2242579
+"0113","Rice","4","Afghanistan","2019","2019",149584.1009625
+"0113","Rice","380","Italy","2020","2020",589533.42839205
+"0113","Rice","4","Afghanistan","2020","2020",171894.227435205
+"0114","Sorghum","380","Italy","2015","2015",63913.30272198
+"0114","Sorghum","380","Italy","2016","2016",68164.51554468
+"0114","Sorghum","380","Italy","2017","2017",52286.22479034
+"0114","Sorghum","380","Italy","2018","2018",65975.2604181
+"0114","Sorghum","380","Italy","2019","2019",70133.0638635
+"0114","Sorghum","380","Italy","2020","2020",81203.1612291
+"0115","Barley","380","Italy","2015","2015",186084.400917681
+"0115","Barley","4","Afghanistan","2015","2015",78514.898553
+"0115","Barley","380","Italy","2016","2016",192543.663812535
+"0115","Barley","4","Afghanistan","2016","2016",58809.412450656
+"0115","Barley","380","Italy","2017","2017",191763.580304331
+"0115","Barley","4","Afghanistan","2017","2017",18507.500714745
+"0115","Barley","380","Italy","2018","2018",202811.97083049
+"0115","Barley","4","Afghanistan","2018","2018",11062.418001831
+"0115","Barley","380","Italy","2019","2019",215280.83809449
+"0115","Barley","4","Afghanistan","2019","2019",24075.824078376
+"0115","Barley","380","Italy","2020","2020",218931.87829023
+"0115","Barley","4","Afghanistan","2020","2020",24890.391797607
+"0116","Rye","380","Italy","2015","2015",3560.11542233
+"0116","Rye","380","Italy","2016","2016",3556.6047267
+"0116","Rye","380","Italy","2017","2017",2996.78380047
+"0116","Rye","380","Italy","2018","2018",2959.7864696
+"0116","Rye","380","Italy","2019","2019",3478.2892088
+"0116","Rye","380","Italy","2020","2020",3192.0324882
+"0117","Oats","380","Italy","2015","2015",43803.535973652
+"0117","Oats","380","Italy","2016","2016",43708.342228356
+"0117","Oats","380","Italy","2017","2017",38386.039817502
+"0117","Oats","380","Italy","2018","2018",41848.3771134
+"0117","Oats","380","Italy","2019","2019",40945.04210082
+"0117","Oats","380","Italy","2020","2020",41736.08871666
+"0118","Millet","4","Afghanistan","2015","2015",1875.002563368
+"0118","Millet","4","Afghanistan","2016","2016",2256.125043438
+"0118","Millet","4","Afghanistan","2017","2017",1879.203913542
+"0118","Millet","4","Afghanistan","2018","2018",1579.407568983
+"0118","Millet","4","Afghanistan","2019","2019",814.461740874
+"0118","Millet","4","Afghanistan","2020","2020",568.682755695
+"01191","Triticale","380","Italy","2015","2015",11188.665986372
+"01191","Triticale","380","Italy","2016","2016",16782.901955104
+"01191","Triticale","380","Italy","2017","2017",15068.673901832
+"01191","Triticale","380","Italy","2018","2018",11984.46055808
+"01191","Triticale","380","Italy","2019","2019",11856.3882788
+"01191","Triticale","380","Italy","2020","2020",11722.49453228
+"01199.02","Mixed grain","380","Italy","2015","2015",NA
+"01199.02","Mixed grain","380","Italy","2016","2016",NA
+"01199.02","Mixed grain","380","Italy","2017","2017",NA
+"01199.02","Mixed grain","380","Italy","2018","2018",0
+"01199.02","Mixed grain","380","Italy","2019","2019",0
+"01199.02","Mixed grain","380","Italy","2020","2020",0
+"01199.90","Other cereals n.e.","380","Italy","2015","2015",36853.718111496
+"01199.90","Other cereals n.e.","380","Italy","2016","2016",26753.5456227
+"01199.90","Other cereals n.e.","380","Italy","2017","2017",27912.69625392
+"01199.90","Other cereals n.e.","380","Italy","2018","2018",31222.89303768
+"01199.90","Other cereals n.e.","380","Italy","2019","2019",30865.11254172
+"01199.90","Other cereals n.e.","380","Italy","2020","2020",31950.08916768
+"01211","Asparagus","380","Italy","2015","2015",44843.911696485
+"01211","Asparagus","380","Italy","2016","2016",44501.894801013
+"01211","Asparagus","380","Italy","2017","2017",47250.244853913
+"01211","Asparagus","380","Italy","2018","2018",49877.463923
+"01211","Asparagus","380","Italy","2019","2019",50803.75968157
+"01211","Asparagus","380","Italy","2020","2020",47882.36536608
+"01212","Cabbages","380","Italy","2015","2015",66170.084405823
+"01212","Cabbages","380","Italy","2016","2016",61739.99567341
+"01212","Cabbages","380","Italy","2017","2017",65951.640459903
+"01212","Cabbages","380","Italy","2018","2018",100957.51033936
+"01212","Cabbages","380","Italy","2019","2019",104172.73216837
+"01212","Cabbages","380","Italy","2020","2020",95712.58017951
+"01213","Cauliflowers and broccoli","380","Italy","2015","2015",181132.635455928
+"01213","Cauliflowers and broccoli","380","Italy","2016","2016",182216.225082294
+"01213","Cauliflowers and broccoli","380","Italy","2017","2017",174372.988432032
+"01213","Cauliflowers and broccoli","380","Italy","2018","2018",172754.87798088
+"01213","Cauliflowers and broccoli","380","Italy","2019","2019",172768.9566681
+"01213","Cauliflowers and broccoli","380","Italy","2020","2020",171459.63875664
+"01214","Lettuce and chicory","380","Italy","2015","2015",248178.42514875
+"01214","Lettuce and chicory","380","Italy","2016","2016",291530.47527465
+"01214","Lettuce and chicory","380","Italy","2017","2017",291493.24009335
+"01214","Lettuce and chicory","380","Italy","2018","2018",304243.120737
+"01214","Lettuce and chicory","380","Italy","2019","2019",300646.360671
+"01214","Lettuce and chicory","380","Italy","2020","2020",291333.6041565
+"01215","Spinach","380","Italy","2015","2015",37335.445562565
+"01215","Spinach","380","Italy","2016","2016",37132.168741458
+"01215","Spinach","380","Italy","2017","2017",37170.560984013
+"01215","Spinach","380","Italy","2018","2018",41435.33293857
+"01215","Spinach","380","Italy","2019","2019",40218.90504288
+"01215","Spinach","380","Italy","2020","2020",40360.35014703
+"01216","Artichokes","380","Italy","2015","2015",278208.472547335
+"01216","Artichokes","380","Italy","2016","2016",253707.743097591
+"01216","Artichokes","380","Italy","2017","2017",268827.987290603
+"01216","Artichokes","380","Italy","2018","2018",270219.25494581
+"01216","Artichokes","380","Italy","2019","2019",262600.90341082
+"01216","Artichokes","380","Italy","2020","2020",254462.64617508
+"01221","Watermelons","380","Italy","2015","2015",114737.00190173
+"01221","Watermelons","4","Afghanistan","2015","2015",76142.69969066
+"01221","Watermelons","380","Italy","2016","2016",123894.00455081
+"01221","Watermelons","4","Afghanistan","2016","2016",200072.43390621
+"01221","Watermelons","380","Italy","2017","2017",132422.95393722
+"01221","Watermelons","4","Afghanistan","2017","2017",190707.08554975
+"01221","Watermelons","380","Italy","2018","2018",134928.2066636
+"01221","Watermelons","4","Afghanistan","2018","2018",79926.33198014
+"01221","Watermelons","380","Italy","2019","2019",150904.4710402
+"01221","Watermelons","4","Afghanistan","2019","2019",196510.8359619
+"01221","Watermelons","380","Italy","2020","2020",151238.5666066
+"01221","Watermelons","4","Afghanistan","2020","2020",229764.48133758
+"01229","Cantaloupes and other melons","380","Italy","2015","2015",223455.198393596
+"01229","Cantaloupes and other melons","4","Afghanistan","2015","2015",113328.287583732
+"01229","Cantaloupes and other melons","380","Italy","2016","2016",237232.036142712
+"01229","Cantaloupes and other melons","4","Afghanistan","2016","2016",189938.850790936
+"01229","Cantaloupes and other melons","380","Italy","2017","2017",227260.608521024
+"01229","Cantaloupes and other melons","4","Afghanistan","2017","2017",209902.340714092
+"01229","Cantaloupes and other melons","380","Italy","2018","2018",228095.75028812
+"01229","Cantaloupes and other melons","4","Afghanistan","2018","2018",140142.491193848
+"01229","Cantaloupes and other melons","380","Italy","2019","2019",221965.37451348
+"01229","Cantaloupes and other melons","4","Afghanistan","2019","2019",174167.95262308
+"01229","Cantaloupes and other melons","380","Italy","2020","2020",222633.18778636
+"01229","Cantaloupes and other melons","4","Afghanistan","2020","2020",297700.652122016
+"01231","Chillies and peppers, green (Capsicum spp. and Pimenta spp.)","380","Italy","2015","2015",189857.198599104
+"01231","Chillies and peppers, green (Capsicum spp. and Pimenta spp.)","380","Italy","2016","2016",182045.360355744
+"01231","Chillies and peppers, green (Capsicum spp. and Pimenta spp.)","380","Italy","2017","2017",167828.351648928
+"01231","Chillies and peppers, green (Capsicum spp. and Pimenta spp.)","380","Italy","2018","2018",174994.572333
+"01231","Chillies and peppers, green (Capsicum spp. and Pimenta spp.)","380","Italy","2019","2019",167538.42775536
+"01231","Chillies and peppers, green (Capsicum spp. and Pimenta spp.)","380","Italy","2020","2020",166182.76510488
+"01232","Cucumbers and gherkins","380","Italy","2015","2015",21798.089273025
+"01232","Cucumbers and gherkins","380","Italy","2016","2016",22410.897480855
+"01232","Cucumbers and gherkins","380","Italy","2017","2017",20368.57757454
+"01232","Cucumbers and gherkins","380","Italy","2018","2018",20236.13917065
+"01232","Cucumbers and gherkins","380","Italy","2019","2019",22671.658971
+"01232","Cucumbers and gherkins","380","Italy","2020","2020",22705.32975165
+"01233","Eggplants (aubergines)","380","Italy","2015","2015",85843.451485518
+"01233","Eggplants (aubergines)","380","Italy","2016","2016",90820.210872165
+"01233","Eggplants (aubergines)","380","Italy","2017","2017",81923.070262077
+"01233","Eggplants (aubergines)","380","Italy","2018","2018",85308.11312019
+"01233","Eggplants (aubergines)","380","Italy","2019","2019",85968.70693638
+"01233","Eggplants (aubergines)","380","Italy","2020","2020",87132.61032681
+"01234","Tomatoes","380","Italy","2015","2015",3052025.49108522
+"01234","Tomatoes","380","Italy","2016","2016",3065034.42295244
+"01234","Tomatoes","380","Italy","2017","2017",2864254.17905044
+"01234","Tomatoes","380","Italy","2018","2018",2760571.2351987
+"01234","Tomatoes","380","Italy","2019","2019",2750815.60756047
+"01234","Tomatoes","380","Italy","2020","2020",2974733.21020857
+"01235","Pumpkins, squash and gourds","380","Italy","2015","2015",166662.782920066
+"01235","Pumpkins, squash and gourds","380","Italy","2016","2016",167037.889052508
+"01235","Pumpkins, squash and gourds","380","Italy","2017","2017",169101.403277648
+"01235","Pumpkins, squash and gourds","380","Italy","2018","2018",160767.56098702
+"01235","Pumpkins, squash and gourds","380","Italy","2019","2019",163336.19135072
+"01235","Pumpkins, squash and gourds","380","Italy","2020","2020",172322.09265658
+"01241.90","Other beans, green","380","Italy","2015","2015",47073.222202236
+"01241.90","Other beans, green","380","Italy","2016","2016",51580.397842144
+"01241.90","Other beans, green","380","Italy","2017","2017",49016.128591572
+"01241.90","Other beans, green","380","Italy","2018","2018",51855.15228104
+"01241.90","Other beans, green","380","Italy","2019","2019",48870.20486308
+"01241.90","Other beans, green","380","Italy","2020","2020",51348.69248584
+"01242","Peas, green","380","Italy","2015","2015",45527.062858398
+"01242","Peas, green","380","Italy","2016","2016",60382.992876822
+"01242","Peas, green","380","Italy","2017","2017",52349.844961953
+"01242","Peas, green","380","Italy","2018","2018",52577.16945723
+"01242","Peas, green","380","Italy","2019","2019",48542.61675285
+"01242","Peas, green","380","Italy","2020","2020",49005.79803009
+"01243","Broad beans and horse beans, green","380","Italy","2015","2015",21594.574788501
+"01243","Broad beans and horse beans, green","380","Italy","2016","2016",21559.765041276
+"01243","Broad beans and horse beans, green","380","Italy","2017","2017",21026.943843752
+"01243","Broad beans and horse beans, green","380","Italy","2018","2018",21595.96717839
+"01243","Broad beans and horse beans, green","380","Italy","2019","2019",22208.61872955
+"01243","Broad beans and horse beans, green","380","Italy","2020","2020",21647.02147432
+"01251","Carrots and turnips","380","Italy","2015","2015",147295.089462298
+"01251","Carrots and turnips","380","Italy","2016","2016",163223.91749754
+"01251","Carrots and turnips","380","Italy","2017","2017",152993.195573319
+"01251","Carrots and turnips","380","Italy","2018","2018",132346.85416518
+"01251","Carrots and turnips","380","Italy","2019","2019",136039.27777886
+"01251","Carrots and turnips","380","Italy","2020","2020",136440.02734771
+"01252","Green garlic","380","Italy","2015","2015",19593.423650949
+"01252","Green garlic","380","Italy","2016","2016",21359.670777984
+"01252","Green garlic","380","Italy","2017","2017",21659.463235129
+"01252","Green garlic","380","Italy","2018","2018",22032.9396215
+"01252","Green garlic","380","Italy","2019","2019",21144.39812201
+"01252","Green garlic","380","Italy","2020","2020",20205.28922011
+"01253.01","Onions and shallots, green","380","Italy","2015","2015",NA
+"01253.01","Onions and shallots, green","380","Italy","2016","2016",NA
+"01253.01","Onions and shallots, green","380","Italy","2017","2017",NA
+"01253.01","Onions and shallots, green","380","Italy","2018","2018",NA
+"01253.01","Onions and shallots, green","380","Italy","2019","2019",NA
+"01253.01","Onions and shallots, green","380","Italy","2020","2020",NA
+"01253.02","Onions and shallots, dry (excluding dehydrated)","380","Italy","2015","2015",157543.311159
+"01253.02","Onions and shallots, dry (excluding dehydrated)","4","Afghanistan","2015","2015",82395.19338123
+"01253.02","Onions and shallots, dry (excluding dehydrated)","380","Italy","2016","2016",187671.43922085
+"01253.02","Onions and shallots, dry (excluding dehydrated)","4","Afghanistan","2016","2016",58989.82945377
+"01253.02","Onions and shallots, dry (excluding dehydrated)","380","Italy","2017","2017",170968.01689128
+"01253.02","Onions and shallots, dry (excluding dehydrated)","4","Afghanistan","2017","2017",88287.55476
+"01253.02","Onions and shallots, dry (excluding dehydrated)","380","Italy","2018","2018",154994.6326914
+"01253.02","Onions and shallots, dry (excluding dehydrated)","4","Afghanistan","2018","2018",64240.44025761
+"01253.02","Onions and shallots, dry (excluding dehydrated)","380","Italy","2019","2019",199025.9683743
+"01253.02","Onions and shallots, dry (excluding dehydrated)","4","Afghanistan","2019","2019",146892.58373925
+"01253.02","Onions and shallots, dry (excluding dehydrated)","380","Italy","2020","2020",190721.9408181
+"01253.02","Onions and shallots, dry (excluding dehydrated)","4","Afghanistan","2020","2020",135765.43668438
+"01254","Leeks and other alliaceous vegetables","380","Italy","2015","2015",8733.549167532
+"01254","Leeks and other alliaceous vegetables","380","Italy","2016","2016",8857.556856774
+"01254","Leeks and other alliaceous vegetables","380","Italy","2017","2017",8833.891267224
+"01254","Leeks and other alliaceous vegetables","380","Italy","2018","2018",9731.29042296
+"01254","Leeks and other alliaceous vegetables","380","Italy","2019","2019",12921.4118943
+"01254","Leeks and other alliaceous vegetables","380","Italy","2020","2020",13707.10946736
+"01270","Mushrooms and truffles","380","Italy","2015","2015",64365.742072536
+"01270","Mushrooms and truffles","380","Italy","2016","2016",73972.343143748
+"01270","Mushrooms and truffles","380","Italy","2017","2017",75266.496655932
+"01270","Mushrooms and truffles","380","Italy","2018","2018",76469.75644318
+"01270","Mushrooms and truffles","380","Italy","2019","2019",76675.34939244
+"01270","Mushrooms and truffles","380","Italy","2020","2020",74889.93693834
+"01290.90","Other vegetables, fresh n.e.","380","Italy","2015","2015",611226.66176091
+"01290.90","Other vegetables, fresh n.e.","4","Afghanistan","2015","2015",240817.562168932
+"01290.90","Other vegetables, fresh n.e.","380","Italy","2016","2016",601358.540851864
+"01290.90","Other vegetables, fresh n.e.","4","Afghanistan","2016","2016",393596.821938754
+"01290.90","Other vegetables, fresh n.e.","380","Italy","2017","2017",596771.024728268
+"01290.90","Other vegetables, fresh n.e.","4","Afghanistan","2017","2017",211094.367266594
+"01290.90","Other vegetables, fresh n.e.","380","Italy","2018","2018",0
+"01290.90","Other vegetables, fresh n.e.","4","Afghanistan","2018","2018",217735.303377646
+"01290.90","Other vegetables, fresh n.e.","380","Italy","2019","2019",0
+"01290.90","Other vegetables, fresh n.e.","4","Afghanistan","2019","2019",311400.012192038
+"01290.90","Other vegetables, fresh n.e.","380","Italy","2020","2020",0
+"01290.90","Other vegetables, fresh n.e.","4","Afghanistan","2020","2020",444618.307602188
+"01311","Avocados","380","Italy","2015","2015",NA
+"01311","Avocados","380","Italy","2016","2016",NA
+"01311","Avocados","380","Italy","2017","2017",NA
+"01311","Avocados","380","Italy","2018","2018",0
+"01311","Avocados","380","Italy","2019","2019",0
+"01311","Avocados","380","Italy","2020","2020",0
+"01312","Bananas","380","Italy","2015","2015",124.102570542
+"01312","Bananas","380","Italy","2016","2016",122.68019151
+"01312","Bananas","380","Italy","2017","2017",121.257812478
+"01312","Bananas","380","Italy","2018","2018",0
+"01312","Bananas","380","Italy","2019","2019",0
+"01312","Bananas","380","Italy","2020","2020",0
+"01315","Figs","380","Italy","2015","2015",9794.599724976
+"01315","Figs","4","Afghanistan","2015","2015",3731.987509608
+"01315","Figs","380","Italy","2016","2016",8438.803622106
+"01315","Figs","4","Afghanistan","2016","2016",2347.805593014
+"01315","Figs","380","Italy","2017","2017",8488.105298574
+"01315","Figs","4","Afghanistan","2017","2017",5948.321965374
+"01315","Figs","380","Italy","2018","2018",7955.4977937
+"01315","Figs","4","Afghanistan","2018","2018",7082.260524138
+"01315","Figs","380","Italy","2019","2019",8836.95200934
+"01315","Figs","4","Afghanistan","2019","2019",18166.173788262
+"01315","Figs","380","Italy","2020","2020",9098.40029364
+"01315","Figs","4","Afghanistan","2020","2020",11947.439597412
+"01316","Mangoes, guavas, mangosteens","380","Italy","2015","2015",NA
+"01316","Mangoes, guavas, mangosteens","380","Italy","2016","2016",NA
+"01316","Mangoes, guavas, mangosteens","380","Italy","2017","2017",NA
+"01316","Mangoes, guavas, mangosteens","380","Italy","2018","2018",NA
+"01316","Mangoes, guavas, mangosteens","380","Italy","2019","2019",NA
+"01316","Mangoes, guavas, mangosteens","380","Italy","2020","2020",NA
+"01319","Other tropical and subtropical fruits, n.e.","380","Italy","2015","2015",NA
+"01319","Other tropical and subtropical fruits, n.e.","380","Italy","2016","2016",NA
+"01319","Other tropical and subtropical fruits, n.e.","380","Italy","2017","2017",NA
+"01319","Other tropical and subtropical fruits, n.e.","380","Italy","2018","2018",0
+"01319","Other tropical and subtropical fruits, n.e.","380","Italy","2019","2019",0
+"01319","Other tropical and subtropical fruits, n.e.","380","Italy","2020","2020",122698.87183744
+"01321","Pomelos and grapefruits","380","Italy","2015","2015",2000.63366256
+"01321","Pomelos and grapefruits","380","Italy","2016","2016",1959.491599338
+"01321","Pomelos and grapefruits","380","Italy","2017","2017",1949.407760313
+"01321","Pomelos and grapefruits","380","Italy","2018","2018",2081.30437476
+"01321","Pomelos and grapefruits","380","Italy","2019","2019",2101.47205281
+"01321","Pomelos and grapefruits","380","Italy","2020","2020",2202.31044306
+"01322","Lemons and limes","380","Italy","2015","2015",224909.27279207
+"01322","Lemons and limes","380","Italy","2016","2016",252143.771627262
+"01322","Lemons and limes","380","Italy","2017","2017",242086.878816044
+"01322","Lemons and limes","380","Italy","2018","2018",245866.68169886
+"01322","Lemons and limes","380","Italy","2019","2019",258211.2585159
+"01322","Lemons and limes","380","Italy","2020","2020",274035.70900416
+"01323","Oranges","380","Italy","2015","2015",621550.529947212
+"01323","Oranges","4","Afghanistan","2015","2015",1607.135105304
+"01323","Oranges","380","Italy","2016","2016",518845.265808012
+"01323","Oranges","4","Afghanistan","2016","2016",1723.282100328
+"01323","Oranges","380","Italy","2017","2017",529082.840405928
+"01323","Oranges","4","Afghanistan","2017","2017",1462.603872732
+"01323","Oranges","380","Italy","2018","2018",519529.4238096
+"01323","Oranges","4","Afghanistan","2018","2018",1827.0313824
+"01323","Oranges","380","Italy","2019","2019",538390.26027684
+"01323","Oranges","4","Afghanistan","2019","2019",1886.736157932
+"01323","Oranges","380","Italy","2020","2020",578376.14710308
+"01323","Oranges","4","Afghanistan","2020","2020",979.093067604
+"01324","Tangerines, mandarins, clementines","380","Italy","2015","2015",368556.880897086
+"01324","Tangerines, mandarins, clementines","380","Italy","2016","2016",312681.060495204
+"01324","Tangerines, mandarins, clementines","380","Italy","2017","2017",334787.957349024
+"01324","Tangerines, mandarins, clementines","380","Italy","2018","2018",203326.98503034
+"01324","Tangerines, mandarins, clementines","380","Italy","2019","2019",342206.51746494
+"01324","Tangerines, mandarins, clementines","380","Italy","2020","2020",295899.89569512
+"01329","Other citrus fruit, n.e.","380","Italy","2015","2015",12760.914480464
+"01329","Other citrus fruit, n.e.","4","Afghanistan","2015","2015",1291.159133616
+"01329","Other citrus fruit, n.e.","380","Italy","2016","2016",15841.049099664
+"01329","Other citrus fruit, n.e.","4","Afghanistan","2016","2016",6979.002318936
+"01329","Other citrus fruit, n.e.","380","Italy","2017","2017",8262.2529988
+"01329","Other citrus fruit, n.e.","4","Afghanistan","2017","2017",6690.9681086
+"01329","Other citrus fruit, n.e.","380","Italy","2018","2018",0
+"01329","Other citrus fruit, n.e.","4","Afghanistan","2018","2018",6747.575988088
+"01329","Other citrus fruit, n.e.","380","Italy","2019","2019",12890.77961576
+"01329","Other citrus fruit, n.e.","4","Afghanistan","2019","2019",13102.642929432
+"01329","Other citrus fruit, n.e.","380","Italy","2020","2020",11766.94671416
+"01329","Other citrus fruit, n.e.","4","Afghanistan","2020","2020",1571.2848902
+"01330","Grapes","380","Italy","2015","2015",6781428.04183757
+"01330","Grapes","4","Afghanistan","2015","2015",689770.349758112
+"01330","Grapes","380","Italy","2016","2016",7027243.63593064
+"01330","Grapes","4","Afghanistan","2016","2016",749290.065295786
+"01330","Grapes","380","Italy","2017","2017",6142900.90367877
+"01330","Grapes","4","Afghanistan","2017","2017",791520.798124126
+"01330","Grapes","380","Italy","2018","2018",7294324.53310344
+"01330","Grapes","4","Afghanistan","2018","2018",843141.850120626
+"01330","Grapes","380","Italy","2019","2019",6768672.28711352
+"01330","Grapes","4","Afghanistan","2019","2019",953534.647888942
+"01330","Grapes","380","Italy","2020","2020",7044761.37915256
+"01330","Grapes","4","Afghanistan","2020","2020",851110.769699372
+"01341","Apples","380","Italy","2015","2015",1167546.64683427
+"01341","Apples","4","Afghanistan","2015","2015",42354.109163772
+"01341","Apples","380","Italy","2016","2016",1159054.39613414
+"01341","Apples","4","Afghanistan","2016","2016",66506.425100052
+"01341","Apples","380","Italy","2017","2017",906843.235167648
+"01341","Apples","4","Afghanistan","2017","2017",80449.348937412
+"01341","Apples","380","Italy","2018","2018",1164422.94101316
+"01341","Apples","4","Afghanistan","2018","2018",102514.946312928
+"01341","Apples","380","Italy","2019","2019",1087345.09867596
+"01341","Apples","4","Afghanistan","2019","2019",118153.299480816
+"01341","Apples","380","Italy","2020","2020",1162275.33426096
+"01341","Apples","4","Afghanistan","2020","2020",127844.905951788
+"01342.01","Pears","380","Italy","2015","2015",328200.159086683
+"01342.01","Pears","4","Afghanistan","2015","2015",2202.612565842
+"01342.01","Pears","380","Italy","2016","2016",305669.322482472
+"01342.01","Pears","4","Afghanistan","2016","2016",2275.771702074
+"01342.01","Pears","380","Italy","2017","2017",336435.352094322
+"01342.01","Pears","4","Afghanistan","2017","2017",3528.621910047
+"01342.01","Pears","380","Italy","2018","2018",327731.15676691
+"01342.01","Pears","4","Afghanistan","2018","2018",3694.971850765
+"01342.01","Pears","380","Italy","2019","2019",186943.36662521
+"01342.01","Pears","4","Afghanistan","2019","2019",3033.491327334
+"01342.01","Pears","380","Italy","2020","2020",269761.25072403
+"01342.01","Pears","4","Afghanistan","2020","2020",7847.18830298
+"01342.02","Quinces","380","Italy","2015","2015",324.789937758
+"01342.02","Quinces","380","Italy","2016","2016",457.658548659
+"01342.02","Quinces","380","Italy","2017","2017",394.231557447
+"01342.02","Quinces","380","Italy","2018","2018",392.044419819
+"01342.02","Quinces","380","Italy","2019","2019",392.044419819
+"01342.02","Quinces","380","Italy","2020","2020",392.044419819
+"01343","Apricots","380","Italy","2015","2015",178200.901798557
+"01343","Apricots","4","Afghanistan","2015","2015",71819.626302958
+"01343","Apricots","380","Italy","2016","2016",194133.152908713
+"01343","Apricots","4","Afghanistan","2016","2016",14656.163960782
+"01343","Apricots","380","Italy","2017","2017",218173.226028916
+"01343","Apricots","4","Afghanistan","2017","2017",107964.508139848
+"01343","Apricots","380","Italy","2018","2018",187579.89663006
+"01343","Apricots","4","Afghanistan","2018","2018",89347.395877158
+"01343","Apricots","380","Italy","2019","2019",223593.72972247
+"01343","Apricots","4","Afghanistan","2019","2019",105955.367076039
+"01343","Apricots","380","Italy","2020","2020",142007.69573714
+"01343","Apricots","4","Afghanistan","2020","2020",107941.574609564
+"01344.01","Sour cherries","380","Italy","2015","2015",5961.669671424
+"01344.01","Sour cherries","380","Italy","2016","2016",5953.808820064
+"01344.01","Sour cherries","380","Italy","2017","2017",5963.241841696
+"01344.01","Sour cherries","380","Italy","2018","2018",0
+"01344.01","Sour cherries","380","Italy","2019","2019",0
+"01344.01","Sour cherries","380","Italy","2020","2020",0
+"01344.02","Cherries","380","Italy","2015","2015",195796.234323476
+"01344.02","Cherries","380","Italy","2016","2016",167196.546787552
+"01344.02","Cherries","380","Italy","2017","2017",208377.207092036
+"01344.02","Cherries","380","Italy","2018","2018",202282.3072592
+"01344.02","Cherries","380","Italy","2019","2019",173737.2429944
+"01344.02","Cherries","380","Italy","2020","2020",183921.83999752
+"01345","Peaches and nectarines","380","Italy","2015","2015",868218.306469624
+"01345","Peaches and nectarines","4","Afghanistan","2015","2015",17045.161402786
+"01345","Peaches and nectarines","380","Italy","2016","2016",871096.591940267
+"01345","Peaches and nectarines","4","Afghanistan","2016","2016",9339.630573174
+"01345","Peaches and nectarines","380","Italy","2017","2017",763182.548680959
+"01345","Peaches and nectarines","4","Afghanistan","2017","2017",37872.305707214
+"01345","Peaches and nectarines","380","Italy","2018","2018",665526.47808372
+"01345","Peaches and nectarines","4","Afghanistan","2018","2018",29249.653176865
+"01345","Peaches and nectarines","380","Italy","2019","2019",747451.13513026
+"01345","Peaches and nectarines","4","Afghanistan","2019","2019",37442.118881519
+"01345","Peaches and nectarines","380","Italy","2020","2020",619560.55811265
+"01345","Peaches and nectarines","4","Afghanistan","2020","2020",42720.907858948
+"01346","Plums and sloes","380","Italy","2015","2015",124020.612670728
+"01346","Plums and sloes","4","Afghanistan","2015","2015",20713.310402694
+"01346","Plums and sloes","380","Italy","2016","2016",136899.370957758
+"01346","Plums and sloes","4","Afghanistan","2016","2016",11476.452845808
+"01346","Plums and sloes","380","Italy","2017","2017",128363.356014132
+"01346","Plums and sloes","4","Afghanistan","2017","2017",19982.697483738
+"01346","Plums and sloes","380","Italy","2018","2018",122635.05302646
+"01346","Plums and sloes","4","Afghanistan","2018","2018",20898.13438389
+"01346","Plums and sloes","380","Italy","2019","2019",133358.56522404
+"01346","Plums and sloes","4","Afghanistan","2019","2019",23767.247595342
+"01346","Plums and sloes","380","Italy","2020","2020",96933.35577558
+"01346","Plums and sloes","4","Afghanistan","2020","2020",18527.053578144
+"01349.10","Pome fruit n.e.","380","Italy","2015","2015",NA
+"01349.10","Pome fruit n.e.","380","Italy","2016","2016",NA
+"01349.10","Pome fruit n.e.","380","Italy","2017","2017",NA
+"01349.10","Pome fruit n.e.","380","Italy","2018","2018",0
+"01349.10","Pome fruit n.e.","380","Italy","2019","2019",0
+"01349.10","Pome fruit n.e.","380","Italy","2020","2020",513.50361432
+"01349.20","Stone fruit, n.e.","380","Italy","2015","2015",25178.718908464
+"01349.20","Stone fruit, n.e.","4","Afghanistan","2015","2015",170121.179078592
+"01349.20","Stone fruit, n.e.","380","Italy","2016","2016",24969.09347912
+"01349.20","Stone fruit, n.e.","4","Afghanistan","2016","2016",160681.272647488
+"01349.20","Stone fruit, n.e.","380","Italy","2017","2017",25124.622023472
+"01349.20","Stone fruit, n.e.","4","Afghanistan","2017","2017",162287.273920688
+"01349.20","Stone fruit, n.e.","380","Italy","2018","2018",0
+"01349.20","Stone fruit, n.e.","4","Afghanistan","2018","2018",164363.241882256
+"01349.20","Stone fruit, n.e.","380","Italy","2019","2019",0
+"01349.20","Stone fruit, n.e.","4","Afghanistan","2019","2019",162442.80246504
+"01349.20","Stone fruit, n.e.","380","Italy","2020","2020",20523.00574384
+"01349.20","Stone fruit, n.e.","4","Afghanistan","2020","2020",163031.106089328
+"01351.01","Currants","380","Italy","2015","2015",1406.638443962
+"01351.01","Currants","380","Italy","2016","2016",1246.58330373
+"01351.01","Currants","380","Italy","2017","2017",1234.271369866
+"01351.01","Currants","380","Italy","2018","2018",369.35801592
+"01351.01","Currants","380","Italy","2019","2019",1477.43206368
+"01351.01","Currants","380","Italy","2020","2020",1169.63371708
+"01352","Kiwi fruit","380","Italy","2015","2015",554851.215830344
+"01352","Kiwi fruit","380","Italy","2016","2016",485362.02398546
+"01352","Kiwi fruit","380","Italy","2017","2017",501635.1555682
+"01352","Kiwi fruit","380","Italy","2018","2018",521138.81199092
+"01352","Kiwi fruit","380","Italy","2019","2019",486191.67096732
+"01352","Kiwi fruit","380","Italy","2020","2020",483447.81055804
+"01353.01","Raspeberries","380","Italy","2015","2015",7119.327572808
+"01353.01","Raspeberries","380","Italy","2016","2016",7141.59535342
+"01353.01","Raspeberries","380","Italy","2017","2017",7243.390921932
+"01353.01","Raspeberries","380","Italy","2018","2018",6330.41191684
+"01353.01","Raspeberries","380","Italy","2019","2019",7252.93425648
+"01353.01","Raspeberries","380","Italy","2020","2020",7730.10098388
+"01354","Strawberries","380","Italy","2015","2015",233718.708144859
+"01354","Strawberries","380","Italy","2016","2016",214552.980742212
+"01354","Strawberries","380","Italy","2017","2017",204593.854357445
+"01354","Strawberries","380","Italy","2018","2018",194611.87470774
+"01354","Strawberries","380","Italy","2019","2019",204259.21726371
+"01354","Strawberries","380","Italy","2020","2020",198807.08119993
+"01355.01","Blueberries","380","Italy","2015","2015",4162.212251252
+"01355.01","Blueberries","380","Italy","2016","2016",4125.093830462
+"01355.01","Blueberries","380","Italy","2017","2017",4134.992076006
+"01355.01","Blueberries","380","Italy","2018","2018",0
+"01355.01","Blueberries","380","Italy","2019","2019",0
+"01355.01","Blueberries","380","Italy","2020","2020",16703.2893555
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","380","Italy","2015","2015",98878.721896776
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","4","Afghanistan","2015","2015",39931.60694016
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","380","Italy","2016","2016",97317.29367668
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","4","Afghanistan","2016","2016",36607.172676472
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","380","Italy","2017","2017",47994.71988
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","4","Afghanistan","2017","2017",34479.406761792
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","380","Italy","2018","2018",0
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","4","Afghanistan","2018","2018",47450.77972136
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","380","Italy","2019","2019",10222.87533444
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","4","Afghanistan","2019","2019",48986.61075752
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","380","Italy","2020","2020",2207.75711448
+"01355.90","Other berries and fruits of the genus Vaccinium n.e.","4","Afghanistan","2020","2020",44430.312016912
+"01356","Locust beans (carobs)","380","Italy","2015","2015",9250.750055124
+"01356","Locust beans (carobs)","380","Italy","2016","2016",8488.60939485
+"01356","Locust beans (carobs)","380","Italy","2017","2017",8484.20735022
+"01356","Locust beans (carobs)","380","Italy","2018","2018",8741.286756612
+"01356","Locust beans (carobs)","380","Italy","2019","2019",8741.286756612
+"01356","Locust beans (carobs)","380","Italy","2020","2020",8741.286756612
+"01359.01","Persimmons","380","Italy","2015","2015",17348.993502786
+"01359.01","Persimmons","380","Italy","2016","2016",17827.060522938
+"01359.01","Persimmons","380","Italy","2017","2017",18211.640510775
+"01359.01","Persimmons","380","Italy","2018","2018",17795.898178833
+"01359.01","Persimmons","380","Italy","2019","2019",17795.898178833
+"01359.01","Persimmons","380","Italy","2020","2020",17795.898178833
+"01359.90","Other fruits, n.e.","4","Afghanistan","2015","2015",27286.40794162
+"01359.90","Other fruits, n.e.","380","Italy","2015","2015",24960.613440298
+"01359.90","Other fruits, n.e.","4","Afghanistan","2016","2016",26285.72060781
+"01359.90","Other fruits, n.e.","380","Italy","2016","2016",25010.326387074
+"01359.90","Other fruits, n.e.","4","Afghanistan","2017","2017",26910.560921598
+"01359.90","Other fruits, n.e.","380","Italy","2017","2017",25042.89693841
+"01359.90","Other fruits, n.e.","4","Afghanistan","2018","2018",26827.420303714
+"01359.90","Other fruits, n.e.","380","Italy","2018","2018",25004.755108556
+"01359.90","Other fruits, n.e.","4","Afghanistan","2019","2019",26674.424424412
+"01359.90","Other fruits, n.e.","380","Italy","2019","2019",25004.755108556
+"01359.90","Other fruits, n.e.","4","Afghanistan","2020","2020",26804.27806987
+"01359.90","Other fruits, n.e.","380","Italy","2020","2020",25004.755108556
+"01371","Almonds, in shell","380","Italy","2015","2015",355943.259416773
+"01371","Almonds, in shell","4","Afghanistan","2015","2015",122589.813318642
+"01371","Almonds, in shell","380","Italy","2016","2016",377102.971069768
+"01371","Almonds, in shell","4","Afghanistan","2016","2016",166056.967698761
+"01371","Almonds, in shell","380","Italy","2017","2017",402459.232465173
+"01371","Almonds, in shell","4","Afghanistan","2017","2017",137985.589180857
+"01371","Almonds, in shell","380","Italy","2018","2018",403475.5053546
+"01371","Almonds, in shell","4","Afghanistan","2018","2018",173995.019621151
+"01371","Almonds, in shell","380","Italy","2019","2019",390835.2952871
+"01371","Almonds, in shell","4","Afghanistan","2019","2019",193167.690251535
+"01371","Almonds, in shell","380","Italy","2020","2020",407115.88585404
+"01371","Almonds, in shell","4","Afghanistan","2020","2020",198739.494849289
+"01373","Chestnuts, in shell","380","Italy","2015","2015",84954.428523801
+"01373","Chestnuts, in shell","380","Italy","2016","2016",88678.787419665
+"01373","Chestnuts, in shell","380","Italy","2017","2017",89140.995042494
+"01373","Chestnuts, in shell","380","Italy","2018","2018",54714.03592983
+"01373","Chestnuts, in shell","380","Italy","2019","2019",66711.41068846
+"01373","Chestnuts, in shell","380","Italy","2020","2020",83013.82395575
+"01374","Hazelnuts, in shell","380","Italy","2015","2015",349124.629556547
+"01374","Hazelnuts, in shell","380","Italy","2016","2016",414142.192132188
+"01374","Hazelnuts, in shell","380","Italy","2017","2017",450925.597363449
+"01374","Hazelnuts, in shell","380","Italy","2018","2018",455799.5960583
+"01374","Hazelnuts, in shell","380","Italy","2019","2019",338432.05877637
+"01374","Hazelnuts, in shell","380","Italy","2020","2020",482797.22096424
+"01375","Pistachios, in shell","4","Afghanistan","2015","2015",17103.658384068
+"01375","Pistachios, in shell","380","Italy","2015","2015",24127.261352872
+"01375","Pistachios, in shell","4","Afghanistan","2016","2016",17209.698570986
+"01375","Pistachios, in shell","380","Italy","2016","2016",22761.214239046
+"01375","Pistachios, in shell","4","Afghanistan","2017","2017",17259.599835418
+"01375","Pistachios, in shell","380","Italy","2017","2017",24158.449643142
+"01375","Pistachios, in shell","4","Afghanistan","2018","2018",17184.74793877
+"01375","Pistachios, in shell","380","Italy","2018","2018",23684.387631038
+"01375","Pistachios, in shell","4","Afghanistan","2019","2019",17240.886861256
+"01375","Pistachios, in shell","380","Italy","2019","2019",23684.387631038
+"01375","Pistachios, in shell","4","Afghanistan","2020","2020",17303.263441796
+"01375","Pistachios, in shell","380","Italy","2020","2020",23684.387631038
+"01376","Walnuts, in shell","380","Italy","2015","2015",38052.735426075
+"01376","Walnuts, in shell","4","Afghanistan","2015","2015",11521.56651225
+"01376","Walnuts, in shell","380","Italy","2016","2016",38526.224460825
+"01376","Walnuts, in shell","4","Afghanistan","2016","2016",20565.207075975
+"01376","Walnuts, in shell","380","Italy","2017","2017",38475.718963785
+"01376","Walnuts, in shell","4","Afghanistan","2017","2017",22553.861021925
+"01376","Walnuts, in shell","380","Italy","2018","2018",39299.58988425
+"01376","Walnuts, in shell","4","Afghanistan","2018","2018",34103.83687626
+"01376","Walnuts, in shell","380","Italy","2019","2019",34091.210502
+"01376","Walnuts, in shell","4","Afghanistan","2019","2019",46370.35946985
+"01376","Walnuts, in shell","380","Italy","2020","2020",48895.63432185
+"01376","Walnuts, in shell","4","Afghanistan","2020","2020",46960.642466505
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","380","Italy","2015","2015",5666.4359092
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","4","Afghanistan","2015","2015",4249.8269319
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","380","Italy","2016","2016",5478.413263122
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","4","Afghanistan","2016","2016",3528.64417982
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","380","Italy","2017","2017",5488.715873866
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","4","Afghanistan","2017","2017",3724.393783956
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","380","Italy","2018","2018",0
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","4","Afghanistan","2018","2018",3835.146849454
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","380","Italy","2019","2019",9916.2628411
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","4","Afghanistan","2019","2019",3696.06160441
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","380","Italy","2020","2020",10663.20212004
+"01379.90","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.","4","Afghanistan","2020","2020",3750.150310816
+"0141","Soya beans","380","Italy","2015","2015",427205.714168996
+"0141","Soya beans","380","Italy","2016","2016",413573.92237252
+"0141","Soya beans","380","Italy","2017","2017",390029.803883118
+"0141","Soya beans","380","Italy","2018","2018",453736.4962053
+"0141","Soya beans","380","Italy","2019","2019",398845.22302674
+"0141","Soya beans","380","Italy","2020","2020",384617.55188514
+"0142","Groundnuts, excluding shelled","380","Italy","2015","2015",NA
+"0142","Groundnuts, excluding shelled","380","Italy","2016","2016",NA
+"0142","Groundnuts, excluding shelled","380","Italy","2017","2017",NA
+"0142","Groundnuts, excluding shelled","380","Italy","2018","2018",NA
+"0142","Groundnuts, excluding shelled","380","Italy","2019","2019",NA
+"0142","Groundnuts, excluding shelled","380","Italy","2020","2020",NA
+"0143","Cottonseed","380","Italy","2015","2015",NA
+"0143","Cottonseed","4","Afghanistan","2015","2015",5779.965783702
+"0143","Cottonseed","380","Italy","2016","2016",NA
+"0143","Cottonseed","4","Afghanistan","2016","2016",6754.772434938
+"0143","Cottonseed","380","Italy","2017","2017",NA
+"0143","Cottonseed","4","Afghanistan","2017","2017",4209.9528306
+"0143","Cottonseed","380","Italy","2018","2018",0
+"0143","Cottonseed","4","Afghanistan","2018","2018",6577.743037668
+"0143","Cottonseed","380","Italy","2019","2019",0
+"0143","Cottonseed","4","Afghanistan","2019","2019",8371.993227312
+"0143","Cottonseed","380","Italy","2020","2020",NA
+"0143","Cottonseed","4","Afghanistan","2020","2020",6386.621748078
+"01441","Linseed","380","Italy","2015","2015",831.475016
+"01441","Linseed","4","Afghanistan","2015","2015",1090.063745976
+"01441","Linseed","380","Italy","2016","2016",831.475016
+"01441","Linseed","4","Afghanistan","2016","2016",91.046514252
+"01441","Linseed","380","Italy","2017","2017",831.475016
+"01441","Linseed","4","Afghanistan","2017","2017",8568.765777388
+"01441","Linseed","380","Italy","2018","2018",0
+"01441","Linseed","4","Afghanistan","2018","2018",12606.824192592
+"01441","Linseed","380","Italy","2019","2019",831.475016
+"01441","Linseed","4","Afghanistan","2019","2019",22865.56294
+"01441","Linseed","380","Italy","2020","2020",0
+"01441","Linseed","4","Afghanistan","2020","2020",14224.874573728
+"01442","Mustard seed","380","Italy","2015","2015",NA
+"01442","Mustard seed","380","Italy","2016","2016",NA
+"01442","Mustard seed","380","Italy","2017","2017",NA
+"01442","Mustard seed","380","Italy","2018","2018",NA
+"01442","Mustard seed","380","Italy","2019","2019",NA
+"01442","Mustard seed","380","Italy","2020","2020",NA
+"01443","Rapeseed or colza seed","380","Italy","2015","2015",13199.333916007
+"01443","Rapeseed or colza seed","380","Italy","2016","2016",16373.982247175
+"01443","Rapeseed or colza seed","380","Italy","2017","2017",19486.096776796
+"01443","Rapeseed or colza seed","380","Italy","2018","2018",18666.1046723
+"01443","Rapeseed or colza seed","380","Italy","2019","2019",17862.09865241
+"01443","Rapeseed or colza seed","380","Italy","2020","2020",22893.01351371
+"01444","Sesame seed","4","Afghanistan","2015","2015",36246.169376
+"01444","Sesame seed","380","Italy","2015","2015",337.542452314
+"01444","Sesame seed","4","Afghanistan","2016","2016",36246.169376
+"01444","Sesame seed","380","Italy","2016","2016",338.675145107
+"01444","Sesame seed","4","Afghanistan","2017","2017",36246.169376
+"01444","Sesame seed","380","Italy","2017","2017",347.736687451
+"01444","Sesame seed","4","Afghanistan","2018","2018",36246.169376
+"01444","Sesame seed","380","Italy","2018","2018",340.940530693
+"01444","Sesame seed","4","Afghanistan","2019","2019",37536.306467227
+"01444","Sesame seed","380","Italy","2019","2019",340.940530693
+"01444","Sesame seed","4","Afghanistan","2020","2020",47408.856851015
+"01444","Sesame seed","380","Italy","2020","2020",340.940530693
+"01445","Sunflower seed","380","Italy","2015","2015",121049.138685123
+"01445","Sunflower seed","4","Afghanistan","2015","2015",147.890539467
+"01445","Sunflower seed","380","Italy","2016","2016",130969.030843959
+"01445","Sunflower seed","4","Afghanistan","2016","2016",318.721195617
+"01445","Sunflower seed","380","Italy","2017","2017",118932.790899219
+"01445","Sunflower seed","4","Afghanistan","2017","2017",358.744377915
+"01445","Sunflower seed","380","Italy","2018","2018",122246.41754094
+"01445","Sunflower seed","4","Afghanistan","2018","2018",382.660669776
+"01445","Sunflower seed","380","Italy","2019","2019",143854.05510597
+"01445","Sunflower seed","4","Afghanistan","2019","2019",430.493253498
+"01445","Sunflower seed","380","Italy","2020","2020",146367.70618932
+"01445","Sunflower seed","4","Afghanistan","2020","2020",188.889896943
+"01447","Castor oil seeds","380","Italy","2015","2015",NA
+"01447","Castor oil seeds","380","Italy","2016","2016",NA
+"01447","Castor oil seeds","380","Italy","2017","2017",NA
+"01447","Castor oil seeds","380","Italy","2018","2018",NA
+"01447","Castor oil seeds","380","Italy","2019","2019",NA
+"01447","Castor oil seeds","380","Italy","2020","2020",NA
+"01448","Poppy seed","380","Italy","2015","2015",NA
+"01448","Poppy seed","380","Italy","2016","2016",NA
+"01448","Poppy seed","380","Italy","2017","2017",NA
+"01448","Poppy seed","380","Italy","2018","2018",NA
+"01448","Poppy seed","380","Italy","2019","2019",NA
+"01448","Poppy seed","380","Italy","2020","2020",NA
+"01449.02","Hempseed","380","Italy","2015","2015",NA
+"01449.02","Hempseed","380","Italy","2016","2016",NA
+"01449.02","Hempseed","380","Italy","2017","2017",NA
+"01449.02","Hempseed","380","Italy","2018","2018",NA
+"01449.02","Hempseed","380","Italy","2019","2019",NA
+"01449.02","Hempseed","380","Italy","2020","2020",NA
+"01449.90","Other oil seeds, n.e.","380","Italy","2015","2015",42818.799175632
+"01449.90","Other oil seeds, n.e.","380","Italy","2016","2016",43054.786276973
+"01449.90","Other oil seeds, n.e.","380","Italy","2017","2017",43172.55421856
+"01449.90","Other oil seeds, n.e.","380","Italy","2018","2018",0
+"01449.90","Other oil seeds, n.e.","380","Italy","2019","2019",0
+"01449.90","Other oil seeds, n.e.","380","Italy","2020","2020",18.04872668
+"01450","Olives","380","Italy","2015","2015",2915834.11839547
+"01450","Olives","4","Afghanistan","2015","2015",7972.176210512
+"01450","Olives","380","Italy","2016","2016",2174747.14753951
+"01450","Olives","4","Afghanistan","2016","2016",8536.587508071
+"01450","Olives","380","Italy","2017","2017",2771882.56401615
+"01450","Olives","4","Afghanistan","2017","2017",8996.438678672
+"01450","Olives","380","Italy","2018","2018",2084310.10630134
+"01450","Olives","4","Afghanistan","2018","2018",9110.601266269
+"01450","Olives","380","Italy","2019","2019",2340983.87918181
+"01450","Olives","4","Afghanistan","2019","2019",8964.430476542
+"01450","Olives","380","Italy","2020","2020",2354896.77770765
+"01450","Olives","4","Afghanistan","2020","2020",9202.358112375
+"01510","Potatoes","380","Italy","2015","2015",342643.639482474
+"01510","Potatoes","4","Afghanistan","2015","2015",81964.873618518
+"01510","Potatoes","380","Italy","2016","2016",342598.34078008
+"01510","Potatoes","4","Afghanistan","2016","2016",107094.391338858
+"01510","Potatoes","380","Italy","2017","2017",337096.425457264
+"01510","Potatoes","4","Afghanistan","2017","2017",128436.587162356
+"01510","Potatoes","380","Italy","2018","2018",327251.8411624
+"01510","Potatoes","4","Afghanistan","2018","2018",154086.664556616
+"01510","Potatoes","380","Italy","2019","2019",334967.63671382
+"01510","Potatoes","4","Afghanistan","2019","2019",230528.349981028
+"01510","Potatoes","380","Italy","2020","2020",359048.5270141
+"01510","Potatoes","4","Afghanistan","2020","2020",214078.91455423
+"01530","Sweet potatoes","380","Italy","2015","2015",1559.78656439
+"01530","Sweet potatoes","380","Italy","2016","2016",2574.36086472
+"01530","Sweet potatoes","380","Italy","2017","2017",1755.50908678
+"01530","Sweet potatoes","380","Italy","2018","2018",1963.21883863
+"01530","Sweet potatoes","380","Italy","2019","2019",1963.21883863
+"01530","Sweet potatoes","380","Italy","2020","2020",1963.21883863
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","380","Italy","2015","2015",NA
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","4","Afghanistan","2015","2015",39124.283832
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","380","Italy","2016","2016",NA
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","4","Afghanistan","2016","2016",37674.511758892
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","380","Italy","2017","2017",NA
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","4","Afghanistan","2017","2017",41176.135161856
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","380","Italy","2018","2018",NA
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","4","Afghanistan","2018","2018",39326.425965132
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","380","Italy","2019","2019",NA
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","4","Afghanistan","2019","2019",39391.633104852
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","380","Italy","2020","2020",NA
+"01654","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","4","Afghanistan","2020","2020",39965.455934388
+"01659","Hop cones (fresh and dried)","380","Italy","2015","2015",NA
+"01659","Hop cones (fresh and dried)","380","Italy","2016","2016",NA
+"01659","Hop cones (fresh and dried)","380","Italy","2017","2017",NA
+"01659","Hop cones (fresh and dried)","380","Italy","2018","2018",0
+"01659","Hop cones (fresh and dried)","380","Italy","2019","2019",264.2518365
+"01659","Hop cones (fresh and dried)","380","Italy","2020","2020",369.9525711
+"01699","Other stimulant, spice and aromatic crops, n.e.","380","Italy","2015","2015",NA
+"01699","Other stimulant, spice and aromatic crops, n.e.","4","Afghanistan","2015","2015",4.697241185
+"01699","Other stimulant, spice and aromatic crops, n.e.","380","Italy","2016","2016",NA
+"01699","Other stimulant, spice and aromatic crops, n.e.","4","Afghanistan","2016","2016",5.636689422
+"01699","Other stimulant, spice and aromatic crops, n.e.","380","Italy","2017","2017",NA
+"01699","Other stimulant, spice and aromatic crops, n.e.","4","Afghanistan","2017","2017",1.878896474
+"01699","Other stimulant, spice and aromatic crops, n.e.","380","Italy","2018","2018",NA
+"01699","Other stimulant, spice and aromatic crops, n.e.","4","Afghanistan","2018","2018",2.818344711
+"01699","Other stimulant, spice and aromatic crops, n.e.","380","Italy","2019","2019",NA
+"01699","Other stimulant, spice and aromatic crops, n.e.","4","Afghanistan","2019","2019",3.757792948
+"01699","Other stimulant, spice and aromatic crops, n.e.","380","Italy","2020","2020",NA
+"01699","Other stimulant, spice and aromatic crops, n.e.","4","Afghanistan","2020","2020",3.757792948
+"01701","Beans, dry","380","Italy","2015","2015",9310.75795993
+"01701","Beans, dry","380","Italy","2016","2016",8919.728992804
+"01701","Beans, dry","380","Italy","2017","2017",8518.790909552
+"01701","Beans, dry","380","Italy","2018","2018",8916.680033996
+"01701","Beans, dry","380","Italy","2019","2019",8916.680033996
+"01701","Beans, dry","380","Italy","2020","2020",8916.680033996
+"01702","Broad beans and horse beans, dry","380","Italy","2015","2015",26899.155359324
+"01702","Broad beans and horse beans, dry","380","Italy","2016","2016",33640.089343171
+"01702","Broad beans and horse beans, dry","380","Italy","2017","2017",31202.845311089
+"01702","Broad beans and horse beans, dry","380","Italy","2018","2018",38761.79992508
+"01702","Broad beans and horse beans, dry","380","Italy","2019","2019",44503.41676577
+"01702","Broad beans and horse beans, dry","380","Italy","2020","2020",45384.67254331
+"01703","Chick peas, dry","380","Italy","2015","2015",11678.421697191
+"01703","Chick peas, dry","380","Italy","2016","2016",15557.293696968
+"01703","Chick peas, dry","380","Italy","2017","2017",23370.081865371
+"01703","Chick peas, dry","380","Italy","2018","2018",16868.59908651
+"01703","Chick peas, dry","380","Italy","2019","2019",16868.59908651
+"01703","Chick peas, dry","380","Italy","2020","2020",16868.59908651
+"01704","Lentils, dry","380","Italy","2015","2015",1696.885945308
+"01704","Lentils, dry","380","Italy","2016","2016",1964.671489012
+"01704","Lentils, dry","380","Italy","2017","2017",2502.291955581
+"01704","Lentils, dry","380","Italy","2018","2018",2054.844172096
+"01704","Lentils, dry","380","Italy","2019","2019",2054.844172096
+"01704","Lentils, dry","380","Italy","2020","2020",2054.844172096
+"01705","Peas, dry","380","Italy","2015","2015",8905.88740928
+"01705","Peas, dry","380","Italy","2016","2016",13410.080694667
+"01705","Peas, dry","380","Italy","2017","2017",16470.461288016
+"01705","Peas, dry","380","Italy","2018","2018",17278.91493927
+"01705","Peas, dry","380","Italy","2019","2019",24090.69696306
+"01705","Peas, dry","380","Italy","2020","2020",21002.14607036
+"01709.01","Vetches","380","Italy","2015","2015",3341.87466695
+"01709.01","Vetches","380","Italy","2016","2016",3329.319557704
+"01709.01","Vetches","380","Italy","2017","2017",3360.707330819
+"01709.01","Vetches","380","Italy","2018","2018",3344.090274464
+"01709.01","Vetches","380","Italy","2019","2019",3344.090274464
+"01709.01","Vetches","380","Italy","2020","2020",3344.090274464
+"01709.02","Lupins","380","Italy","2015","2015",1415.341851064
+"01709.02","Lupins","380","Italy","2016","2016",1406.100992306
+"01709.02","Lupins","380","Italy","2017","2017",1407.293361178
+"01709.02","Lupins","380","Italy","2018","2018",268.2829962
+"01709.02","Lupins","380","Italy","2019","2019",241.45469658
+"01709.02","Lupins","380","Italy","2020","2020",307.03498454
+"01709.90","Pulses n.e.","380","Italy","2015","2015",4340.154422417
+"01709.90","Pulses n.e.","4","Afghanistan","2015","2015",88896.064779181
+"01709.90","Pulses n.e.","380","Italy","2016","2016",4513.527212865
+"01709.90","Pulses n.e.","4","Afghanistan","2016","2016",67559.542231643
+"01709.90","Pulses n.e.","380","Italy","2017","2017",3574.980279959
+"01709.90","Pulses n.e.","4","Afghanistan","2017","2017",30260.220117424
+"01709.90","Pulses n.e.","380","Italy","2018","2018",43701.61251533
+"01709.90","Pulses n.e.","4","Afghanistan","2018","2018",34176.111317062
+"01709.90","Pulses n.e.","380","Italy","2019","2019",34574.53532588
+"01709.90","Pulses n.e.","4","Afghanistan","2019","2019",36379.112687995
+"01709.90","Pulses n.e.","380","Italy","2020","2020",32249.00606939
+"01709.90","Pulses n.e.","4","Afghanistan","2020","2020",36304.929138236
+"01801","Sugar beet","380","Italy","2015","2015",102885.362195692
+"01801","Sugar beet","4","Afghanistan","2015","2015",211.76535643
+"01801","Sugar beet","380","Italy","2016","2016",96403.740504258
+"01801","Sugar beet","4","Afghanistan","2016","2016",74.530098748
+"01801","Sugar beet","380","Italy","2017","2017",115590.812468352
+"01801","Sugar beet","4","Afghanistan","2017","2017",99.027982028
+"01801","Sugar beet","380","Italy","2018","2018",91465.67390472
+"01801","Sugar beet","4","Afghanistan","2018","2018",252.657976982
+"01801","Sugar beet","380","Italy","2019","2019",83817.15207682
+"01801","Sugar beet","4","Afghanistan","2019","2019",437.381439176
+"01801","Sugar beet","380","Italy","2020","2020",86265.05595226
+"01801","Sugar beet","4","Afghanistan","2020","2020",237.064132048
+"01802","Sugar cane","4","Afghanistan","2015","2015",2085.06595662
+"01802","Sugar cane","4","Afghanistan","2016","2016",779.37497892
+"01802","Sugar cane","4","Afghanistan","2017","2017",1513.73077425
+"01802","Sugar cane","4","Afghanistan","2018","2018",1141.00963713
+"01802","Sugar cane","4","Afghanistan","2019","2019",1639.99095714
+"01802","Sugar cane","4","Afghanistan","2020","2020",1808.48748276
+"01921.01","Seed cotton, unginned","380","Italy","2015","2015",NA
+"01921.01","Seed cotton, unginned","4","Afghanistan","2015","2015",45478.986791574
+"01921.01","Seed cotton, unginned","380","Italy","2016","2016",NA
+"01921.01","Seed cotton, unginned","4","Afghanistan","2016","2016",53149.207732572
+"01921.01","Seed cotton, unginned","380","Italy","2017","2017",NA
+"01921.01","Seed cotton, unginned","4","Afghanistan","2017","2017",33125.91308439
+"01921.01","Seed cotton, unginned","380","Italy","2018","2018",NA
+"01921.01","Seed cotton, unginned","4","Afghanistan","2018","2018",51756.42389715
+"01921.01","Seed cotton, unginned","380","Italy","2019","2019",NA
+"01921.01","Seed cotton, unginned","4","Afghanistan","2019","2019",65873.45022384
+"01921.01","Seed cotton, unginned","380","Italy","2020","2020",NA
+"01921.01","Seed cotton, unginned","4","Afghanistan","2020","2020",66722.093414634
+"01921.02","Cotton lint, ginned","380","Italy","2015","2015",NA
+"01921.02","Cotton lint, ginned","4","Afghanistan","2015","2015",33445.766400408
+"01921.02","Cotton lint, ginned","380","Italy","2016","2016",NA
+"01921.02","Cotton lint, ginned","4","Afghanistan","2016","2016",39085.310059616
+"01921.02","Cotton lint, ginned","380","Italy","2017","2017",NA
+"01921.02","Cotton lint, ginned","4","Afghanistan","2017","2017",24361.061858608
+"01921.02","Cotton lint, ginned","380","Italy","2018","2018",NA
+"01921.02","Cotton lint, ginned","4","Afghanistan","2018","2018",38061.398608496
+"01921.02","Cotton lint, ginned","380","Italy","2019","2019",NA
+"01921.02","Cotton lint, ginned","4","Afghanistan","2019","2019",48443.057655048
+"01921.02","Cotton lint, ginned","380","Italy","2020","2020",NA
+"01921.02","Cotton lint, ginned","4","Afghanistan","2020","2020",36955.172707384
+"01929.02","True hemp, raw or retted","380","Italy","2015","2015",1582.04043894
+"01929.02","True hemp, raw or retted","380","Italy","2016","2016",2565.67433265
+"01929.02","True hemp, raw or retted","380","Italy","2017","2017",1727.50389084
+"01929.02","True hemp, raw or retted","380","Italy","2018","2018",2322.3992493
+"01929.02","True hemp, raw or retted","380","Italy","2019","2019",3867.3214281
+"01929.02","True hemp, raw or retted","380","Italy","2020","2020",2342.4631737
+"01929.06","Agave fibres, raw, n.e.c. ","380","Italy","2015","2015",NA
+"01929.06","Agave fibres, raw, n.e.c. ","380","Italy","2016","2016",NA
+"01929.06","Agave fibres, raw, n.e.c. ","380","Italy","2017","2017",NA
+"01929.06","Agave fibres, raw, n.e.c. ","380","Italy","2018","2018",NA
+"01929.06","Agave fibres, raw, n.e.c. ","380","Italy","2019","2019",NA
+"01929.06","Agave fibres, raw, n.e.c. ","380","Italy","2020","2020",NA
+"01930.02","Pyrethrum, dried flowers","380","Italy","2015","2015",429.78236112
+"01930.02","Pyrethrum, dried flowers","380","Italy","2016","2016",425.56880856
+"01930.02","Pyrethrum, dried flowers","380","Italy","2017","2017",425.56880856
+"01930.02","Pyrethrum, dried flowers","380","Italy","2018","2018",426.97332608
+"01930.02","Pyrethrum, dried flowers","380","Italy","2019","2019",426.97332608
+"01930.02","Pyrethrum, dried flowers","380","Italy","2020","2020",426.97332608
+"01970","Unmanufactured tobacco","380","Italy","2015","2015",115132.016090518
+"01970","Unmanufactured tobacco","380","Italy","2016","2016",108556.37123891
+"01970","Unmanufactured tobacco","380","Italy","2017","2017",126312.404067094
+"01970","Unmanufactured tobacco","380","Italy","2018","2018",110930.41195509
+"01970","Unmanufactured tobacco","380","Italy","2019","2019",93752.21167858
+"01970","Unmanufactured tobacco","380","Italy","2020","2020",84726.37763499
+"02211","Raw milk of cattle","380","Italy","2015","2015",4643919.49130421
+"02211","Raw milk of cattle","4","Afghanistan","2015","2015",771983.159021514
+"02211","Raw milk of cattle","380","Italy","2016","2016",4483262.9416047
+"02211","Raw milk of cattle","4","Afghanistan","2016","2016",769112.961863928
+"02211","Raw milk of cattle","380","Italy","2017","2017",4735843.62068457
+"02211","Raw milk of cattle","4","Afghanistan","2017","2017",737140.455350926
+"02211","Raw milk of cattle","380","Italy","2018","2018",5135205.9410355
+"02211","Raw milk of cattle","4","Afghanistan","2018","2018",760366.288838244
+"02211","Raw milk of cattle","380","Italy","2019","2019",5199563.7763872
+"02211","Raw milk of cattle","4","Afghanistan","2019","2019",756475.688109482
+"02211","Raw milk of cattle","380","Italy","2020","2020",5290318.10379424
+"02211","Raw milk of cattle","4","Afghanistan","2020","2020",752243.010816484
+"02212","Raw milk of buffalo","380","Italy","2015","2015",104419.3554342
+"02212","Raw milk of buffalo","380","Italy","2016","2016",106499.5074936
+"02212","Raw milk of buffalo","380","Italy","2017","2017",111739.9934016
+"02212","Raw milk of buffalo","380","Italy","2018","2018",130899.8515734
+"02212","Raw milk of buffalo","380","Italy","2019","2019",133391.756097
+"02212","Raw milk of buffalo","380","Italy","2020","2020",135733.9324518
+"02291","Raw milk of sheep","380","Italy","2015","2015",242461.133299245
+"02291","Raw milk of sheep","4","Afghanistan","2015","2015",121936.58528516
+"02291","Raw milk of sheep","380","Italy","2016","2016",259132.322367505
+"02291","Raw milk of sheep","4","Afghanistan","2016","2016",122295.846603805
+"02291","Raw milk of sheep","380","Italy","2017","2017",250311.8165459
+"02291","Raw milk of sheep","4","Afghanistan","2017","2017",126106.822357445
+"02291","Raw milk of sheep","380","Italy","2018","2018",295893.47756855
+"02291","Raw milk of sheep","4","Afghanistan","2018","2018",124428.236366085
+"02291","Raw milk of sheep","380","Italy","2019","2019",301261.04905255
+"02291","Raw milk of sheep","4","Afghanistan","2019","2019",103109.82830503
+"02291","Raw milk of sheep","380","Italy","2020","2020",293978.23047085
+"02291","Raw milk of sheep","4","Afghanistan","2020","2020",124735.0418725
+"02292","Raw milk of goats","380","Italy","2015","2015",15274.11147537
+"02292","Raw milk of goats","4","Afghanistan","2015","2015",53126.74414305
+"02292","Raw milk of goats","380","Italy","2016","2016",14600.077698895
+"02292","Raw milk of goats","4","Afghanistan","2016","2016",51880.81686203
+"02292","Raw milk of goats","380","Italy","2017","2017",13431.90585011
+"02292","Raw milk of goats","4","Afghanistan","2017","2017",52604.540500525
+"02292","Raw milk of goats","380","Italy","2018","2018",28521.06061685
+"02292","Raw milk of goats","4","Afghanistan","2018","2018",53323.66322587
+"02292","Raw milk of goats","380","Italy","2019","2019",28682.0925771
+"02292","Raw milk of goats","4","Afghanistan","2019","2019",54352.42740621
+"02292","Raw milk of goats","380","Italy","2020","2020",28175.9921306
+"02292","Raw milk of goats","4","Afghanistan","2020","2020",54385.093889575
+"02293","Raw milk of camel","4","Afghanistan","2015","2015",4379.170782593
+"02293","Raw milk of camel","4","Afghanistan","2016","2016",4390.091407986
+"02293","Raw milk of camel","4","Afghanistan","2017","2017",4417.071776604
+"02293","Raw milk of camel","4","Afghanistan","2018","2018",4417.714166333
+"02293","Raw milk of camel","4","Afghanistan","2019","2019",4379.170782593
+"02293","Raw milk of camel","4","Afghanistan","2020","2020",4374.031664761
+"0231","Hen eggs in shell, fresh","380","Italy","2015","2015",879177.257142
+"0231","Hen eggs in shell, fresh","4","Afghanistan","2015","2015",24669.952661145
+"0231","Hen eggs in shell, fresh","380","Italy","2016","2016",926444.851612
+"0231","Hen eggs in shell, fresh","4","Afghanistan","2016","2016",24733.39074846
+"0231","Hen eggs in shell, fresh","380","Italy","2017","2017",905174.4341005
+"0231","Hen eggs in shell, fresh","4","Afghanistan","2017","2017",24877.6813
+"0231","Hen eggs in shell, fresh","380","Italy","2018","2018",915996.225466
+"0231","Hen eggs in shell, fresh","4","Afghanistan","2018","2018",24760.75619789
+"0231","Hen eggs in shell, fresh","380","Italy","2019","2019",892362.428231
+"0231","Hen eggs in shell, fresh","4","Afghanistan","2019","2019",24790.60941545
+"0231","Hen eggs in shell, fresh","380","Italy","2020","2020",861776.562956715
+"0231","Hen eggs in shell, fresh","4","Afghanistan","2020","2020",24809.267676425
+"02910","Natural honey","4","Afghanistan","2015","2015",6269.595140734
+"02910","Natural honey","380","Italy","2015","2015",34693.440313516
+"02910","Natural honey","4","Afghanistan","2016","2016",6755.749847224
+"02910","Natural honey","380","Italy","2016","2016",34949.12167767
+"02910","Natural honey","4","Afghanistan","2017","2017",6608.10286229
+"02910","Natural honey","380","Italy","2017","2017",34210.886753
+"02910","Natural honey","4","Afghanistan","2018","2018",6543.282234758
+"02910","Natural honey","380","Italy","2018","2018",34617.816248062
+"02910","Natural honey","4","Afghanistan","2019","2019",6633.310884108
+"02910","Natural honey","380","Italy","2019","2019",34617.816248062
+"02910","Natural honey","4","Afghanistan","2020","2020",6593.698278394
+"02910","Natural honey","380","Italy","2020","2020",34617.816248062
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","4","Afghanistan","2015","2015",58653.911064465
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","380","Italy","2015","2015",29425.154910615
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","4","Afghanistan","2016","2016",58049.31097011
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","380","Italy","2016","2016",28666.51657566
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","4","Afghanistan","2017","2017",57714.277796805
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","380","Italy","2017","2017",27954.089712885
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","4","Afghanistan","2018","2018",56994.149022
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","380","Italy","2018","2018",28681.92039972
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","4","Afghanistan","2019","2019",56963.34137388
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","380","Italy","2019","2019",28681.92039972
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","4","Afghanistan","2020","2020",58388.19509943
+"02941","Shorn wool, greasy, including fleece-washed shorn wool","380","Italy","2020","2020",28681.92039972
+"02944","Silk-worm cocoons suitable for reeling","4","Afghanistan","2015","2015",2148.0524435
+"02944","Silk-worm cocoons suitable for reeling","380","Italy","2015","2015",274.950712768
+"02944","Silk-worm cocoons suitable for reeling","4","Afghanistan","2016","2016",2148.0524435
+"02944","Silk-worm cocoons suitable for reeling","380","Italy","2016","2016",257.76629322
+"02944","Silk-worm cocoons suitable for reeling","4","Afghanistan","2017","2017",2148.0524435
+"02944","Silk-worm cocoons suitable for reeling","380","Italy","2017","2017",257.76629322
+"02944","Silk-worm cocoons suitable for reeling","4","Afghanistan","2018","2018",2148.0524435
+"02944","Silk-worm cocoons suitable for reeling","380","Italy","2018","2018",262.062398107
+"02944","Silk-worm cocoons suitable for reeling","4","Afghanistan","2019","2019",2148.0524435
+"02944","Silk-worm cocoons suitable for reeling","380","Italy","2019","2019",262.062398107
+"02944","Silk-worm cocoons suitable for reeling","4","Afghanistan","2020","2020",2148.0524435
+"02944","Silk-worm cocoons suitable for reeling","380","Italy","2020","2020",262.062398107
+"02951.01","Raw hides and skins of cattle","4","Afghanistan","2015","2015",NA
+"02951.01","Raw hides and skins of cattle","380","Italy","2015","2015",NA
+"02951.01","Raw hides and skins of cattle","4","Afghanistan","2016","2016",NA
+"02951.01","Raw hides and skins of cattle","380","Italy","2016","2016",NA
+"02951.01","Raw hides and skins of cattle","4","Afghanistan","2017","2017",NA
+"02951.01","Raw hides and skins of cattle","380","Italy","2017","2017",NA
+"02951.01","Raw hides and skins of cattle","4","Afghanistan","2018","2018",NA
+"02951.01","Raw hides and skins of cattle","380","Italy","2018","2018",NA
+"02951.01","Raw hides and skins of cattle","4","Afghanistan","2019","2019",NA
+"02951.01","Raw hides and skins of cattle","380","Italy","2019","2019",NA
+"02951.01","Raw hides and skins of cattle","4","Afghanistan","2020","2020",NA
+"02951.01","Raw hides and skins of cattle","380","Italy","2020","2020",NA
+"02951.03","Raw hides and skins of buffaloes","380","Italy","2015","2015",NA
+"02951.03","Raw hides and skins of buffaloes","380","Italy","2016","2016",NA
+"02951.03","Raw hides and skins of buffaloes","380","Italy","2017","2017",NA
+"02951.03","Raw hides and skins of buffaloes","380","Italy","2018","2018",NA
+"02951.03","Raw hides and skins of buffaloes","380","Italy","2019","2019",NA
+"02951.03","Raw hides and skins of buffaloes","380","Italy","2020","2020",NA
+"02953","Raw hides and skins of sheep or lambs","4","Afghanistan","2015","2015",NA
+"02953","Raw hides and skins of sheep or lambs","380","Italy","2015","2015",NA
+"02953","Raw hides and skins of sheep or lambs","4","Afghanistan","2016","2016",NA
+"02953","Raw hides and skins of sheep or lambs","380","Italy","2016","2016",NA
+"02953","Raw hides and skins of sheep or lambs","4","Afghanistan","2017","2017",NA
+"02953","Raw hides and skins of sheep or lambs","380","Italy","2017","2017",NA
+"02953","Raw hides and skins of sheep or lambs","4","Afghanistan","2018","2018",NA
+"02953","Raw hides and skins of sheep or lambs","380","Italy","2018","2018",NA
+"02953","Raw hides and skins of sheep or lambs","4","Afghanistan","2019","2019",NA
+"02953","Raw hides and skins of sheep or lambs","380","Italy","2019","2019",NA
+"02953","Raw hides and skins of sheep or lambs","4","Afghanistan","2020","2020",NA
+"02953","Raw hides and skins of sheep or lambs","380","Italy","2020","2020",NA
+"02954","Raw hides and skins of goats or kids","4","Afghanistan","2015","2015",NA
+"02954","Raw hides and skins of goats or kids","380","Italy","2015","2015",NA
+"02954","Raw hides and skins of goats or kids","4","Afghanistan","2016","2016",NA
+"02954","Raw hides and skins of goats or kids","380","Italy","2016","2016",NA
+"02954","Raw hides and skins of goats or kids","4","Afghanistan","2017","2017",NA
+"02954","Raw hides and skins of goats or kids","380","Italy","2017","2017",NA
+"02954","Raw hides and skins of goats or kids","4","Afghanistan","2018","2018",NA
+"02954","Raw hides and skins of goats or kids","380","Italy","2018","2018",NA
+"02954","Raw hides and skins of goats or kids","4","Afghanistan","2019","2019",NA
+"02954","Raw hides and skins of goats or kids","380","Italy","2019","2019",NA
+"02954","Raw hides and skins of goats or kids","4","Afghanistan","2020","2020",NA
+"02954","Raw hides and skins of goats or kids","380","Italy","2020","2020",NA
+"02960.01","Beeswax","380","Italy","2015","2015",491.39640684
+"02960.01","Beeswax","380","Italy","2016","2016",491.39640684
+"02960.01","Beeswax","380","Italy","2017","2017",491.39640684
+"02960.01","Beeswax","380","Italy","2018","2018",491.39640684
+"02960.01","Beeswax","380","Italy","2019","2019",491.39640684
+"02960.01","Beeswax","380","Italy","2020","2020",491.39640684
+"21111.01","Meat of cattle, fresh or chilled","380","Italy","2015","2015",3331052.51234374
+"21111.01","Meat of cattle, fresh or chilled","4","Afghanistan","2015","2015",480981.733956702
+"21111.01","Meat of cattle, fresh or chilled","380","Italy","2016","2016",3415290.56849724
+"21111.01","Meat of cattle, fresh or chilled","4","Afghanistan","2016","2016",464127.216905957
+"21111.01","Meat of cattle, fresh or chilled","380","Italy","2017","2017",3193208.02808007
+"21111.01","Meat of cattle, fresh or chilled","4","Afghanistan","2017","2017",496329.919009826
+"21111.01","Meat of cattle, fresh or chilled","380","Italy","2018","2018",3492704.81121738
+"21111.01","Meat of cattle, fresh or chilled","4","Afghanistan","2018","2018",499756.932207852
+"21111.01","Meat of cattle, fresh or chilled","380","Italy","2019","2019",3365810.36786478
+"21111.01","Meat of cattle, fresh or chilled","4","Afghanistan","2019","2019",423861.969897916
+"21111.01","Meat of cattle, fresh or chilled","380","Italy","2020","2020",3160621.18973612
+"21111.01","Meat of cattle, fresh or chilled","4","Afghanistan","2020","2020",500706.482464232
+"21112","Meat of buffalo, fresh or chilled","380","Italy","2015","2015",52889.24616313
+"21112","Meat of buffalo, fresh or chilled","380","Italy","2016","2016",58854.102393036
+"21112","Meat of buffalo, fresh or chilled","380","Italy","2017","2017",53148.727019533
+"21112","Meat of buffalo, fresh or chilled","380","Italy","2018","2018",71527.019281064
+"21112","Meat of buffalo, fresh or chilled","380","Italy","2019","2019",68160.175082551
+"21112","Meat of buffalo, fresh or chilled","380","Italy","2020","2020",64277.572638595
+"21113.01","Meat of pig, fresh or chilled","380","Italy","2015","2015",2959690.80126101
+"21113.01","Meat of pig, fresh or chilled","380","Italy","2016","2016",3064308.95534893
+"21113.01","Meat of pig, fresh or chilled","380","Italy","2017","2017",2911140.34146055
+"21113.01","Meat of pig, fresh or chilled","380","Italy","2018","2018",2950931.278287
+"21113.01","Meat of pig, fresh or chilled","380","Italy","2019","2019",2906260.48940049
+"21113.01","Meat of pig, fresh or chilled","380","Italy","2020","2020",2553418.80730269
+"21114","Meat of rabbits and hares, fresh or chilled","380","Italy","2015","2015",126913.8937
+"21114","Meat of rabbits and hares, fresh or chilled","380","Italy","2016","2016",130285.18822174
+"21114","Meat of rabbits and hares, fresh or chilled","380","Italy","2017","2017",66168.2891245
+"21114","Meat of rabbits and hares, fresh or chilled","380","Italy","2018","2018",54782.95909694
+"21114","Meat of rabbits and hares, fresh or chilled","380","Italy","2019","2019",61488.62773498
+"21114","Meat of rabbits and hares, fresh or chilled","380","Italy","2020","2020",60812.52281036
+"21115","Meat of sheep, fresh or chilled","380","Italy","2015","2015",157708.233202624
+"21115","Meat of sheep, fresh or chilled","4","Afghanistan","2015","2015",503623.4611668
+"21115","Meat of sheep, fresh or chilled","380","Italy","2016","2016",146810.459238456
+"21115","Meat of sheep, fresh or chilled","4","Afghanistan","2016","2016",504880.175203976
+"21115","Meat of sheep, fresh or chilled","380","Italy","2017","2017",155921.636007982
+"21115","Meat of sheep, fresh or chilled","4","Afghanistan","2017","2017",527937.12640097
+"21115","Meat of sheep, fresh or chilled","380","Italy","2018","2018",163325.93251806
+"21115","Meat of sheep, fresh or chilled","4","Afghanistan","2018","2018",517273.814010902
+"21115","Meat of sheep, fresh or chilled","380","Italy","2019","2019",149398.91501652
+"21115","Meat of sheep, fresh or chilled","4","Afghanistan","2019","2019",392249.524237818
+"21115","Meat of sheep, fresh or chilled","380","Italy","2020","2020",136972.45158922
+"21115","Meat of sheep, fresh or chilled","4","Afghanistan","2020","2020",518694.651149948
+"21116","Meat of goat, fresh or chilled","380","Italy","2015","2015",9889.897793104
+"21116","Meat of goat, fresh or chilled","4","Afghanistan","2015","2015",261436.822524122
+"21116","Meat of goat, fresh or chilled","380","Italy","2016","2016",8839.643160208
+"21116","Meat of goat, fresh or chilled","4","Afghanistan","2016","2016",243177.708125128
+"21116","Meat of goat, fresh or chilled","380","Italy","2017","2017",9703.915201862
+"21116","Meat of goat, fresh or chilled","4","Afghanistan","2017","2017",246350.352328668
+"21116","Meat of goat, fresh or chilled","380","Italy","2018","2018",12307.67147925
+"21116","Meat of goat, fresh or chilled","4","Afghanistan","2018","2018",249829.320800136
+"21116","Meat of goat, fresh or chilled","380","Italy","2019","2019",12526.47452777
+"21116","Meat of goat, fresh or chilled","4","Afghanistan","2019","2019",255660.422043194
+"21116","Meat of goat, fresh or chilled","380","Italy","2020","2020",11268.35699878
+"21116","Meat of goat, fresh or chilled","4","Afghanistan","2020","2020",254610.167410298
+"21117.01","Meat of camels (fresh)","4","Afghanistan","2015","2015",14222.186181027
+"21117.01","Meat of camels (fresh)","4","Afghanistan","2016","2016",14202.416670072
+"21117.01","Meat of camels (fresh)","4","Afghanistan","2017","2017",14427.789094959
+"21117.01","Meat of camels (fresh)","4","Afghanistan","2018","2018",14518.728845352
+"21117.01","Meat of camels (fresh)","4","Afghanistan","2019","2019",14408.019584004
+"21117.01","Meat of camels (fresh)","4","Afghanistan","2020","2020",14463.374214678
+"21118.01","Horse meat (fresh)","380","Italy","2015","2015",33266.245265916
+"21118.01","Horse meat (fresh)","380","Italy","2016","2016",39174.832204632
+"21118.01","Horse meat (fresh)","380","Italy","2017","2017",25996.448010432
+"21118.01","Horse meat (fresh)","380","Italy","2018","2018",18743.332253928
+"21118.01","Horse meat (fresh)","380","Italy","2019","2019",19240.440923532
+"21118.01","Horse meat (fresh)","380","Italy","2020","2020",21325.628296032
+"21121","Meat of chickens, fresh or chilled","380","Italy","2015","2015",1863712.1794169
+"21121","Meat of chickens, fresh or chilled","4","Afghanistan","2015","2015",47226.474587563
+"21121","Meat of chickens, fresh or chilled","380","Italy","2016","2016",1965560.91104505
+"21121","Meat of chickens, fresh or chilled","4","Afghanistan","2016","2016",46724.576714386
+"21121","Meat of chickens, fresh or chilled","380","Italy","2017","2017",1935820.09684369
+"21121","Meat of chickens, fresh or chilled","4","Afghanistan","2017","2017",53255.018006758
+"21121","Meat of chickens, fresh or chilled","380","Italy","2018","2018",1870752.21050388
+"21121","Meat of chickens, fresh or chilled","4","Afghanistan","2018","2018",56412.551752952
+"21121","Meat of chickens, fresh or chilled","380","Italy","2019","2019",2029263.48133139
+"21121","Meat of chickens, fresh or chilled","4","Afghanistan","2019","2019",53906.908347781
+"21121","Meat of chickens, fresh or chilled","380","Italy","2020","2020",2051646.97268687
+"21121","Meat of chickens, fresh or chilled","4","Afghanistan","2020","2020",53724.225213866
+"21122","Meat of ducks, fresh or chilled","380","Italy","2015","2015",NA
+"21122","Meat of ducks, fresh or chilled","380","Italy","2016","2016",NA
+"21122","Meat of ducks, fresh or chilled","380","Italy","2017","2017",7562.25923154
+"21122","Meat of ducks, fresh or chilled","380","Italy","2018","2018",8325.4230072
+"21122","Meat of ducks, fresh or chilled","380","Italy","2019","2019",4370.84707878
+"21122","Meat of ducks, fresh or chilled","380","Italy","2020","2020",3931.4497534
+"21123","Meat of geese, fresh or chilled","380","Italy","2015","2015",190.629387044
+"21123","Meat of geese, fresh or chilled","380","Italy","2016","2016",213.3911049
+"21123","Meat of geese, fresh or chilled","380","Italy","2017","2017",193.474601776
+"21123","Meat of geese, fresh or chilled","380","Italy","2018","2018",159.332024992
+"21123","Meat of geese, fresh or chilled","380","Italy","2019","2019",71.1303683
+"21123","Meat of geese, fresh or chilled","380","Italy","2020","2020",142.2607366
+"21124","Meat of turkeys, fresh or chilled","380","Italy","2015","2015",701979.42575376
+"21124","Meat of turkeys, fresh or chilled","380","Italy","2016","2016",744185.01987368
+"21124","Meat of turkeys, fresh or chilled","380","Italy","2017","2017",692083.39011
+"21124","Meat of turkeys, fresh or chilled","380","Italy","2018","2018",673033.5775576
+"21124","Meat of turkeys, fresh or chilled","380","Italy","2019","2019",674311.787464
+"21124","Meat of turkeys, fresh or chilled","380","Italy","2020","2020",702454.83014
+"21151","Edible offal of cattle, fresh, chilled or frozen","4","Afghanistan","2015","2015",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","380","Italy","2015","2015",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","4","Afghanistan","2016","2016",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","380","Italy","2016","2016",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","4","Afghanistan","2017","2017",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","380","Italy","2017","2017",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","4","Afghanistan","2018","2018",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","380","Italy","2018","2018",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","4","Afghanistan","2019","2019",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","380","Italy","2019","2019",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","4","Afghanistan","2020","2020",NA
+"21151","Edible offal of cattle, fresh, chilled or frozen","380","Italy","2020","2020",NA
+"21152","Edible offal of buffalo, fresh, chilled or frozen","380","Italy","2015","2015",NA
+"21152","Edible offal of buffalo, fresh, chilled or frozen","380","Italy","2016","2016",NA
+"21152","Edible offal of buffalo, fresh, chilled or frozen","380","Italy","2017","2017",NA
+"21152","Edible offal of buffalo, fresh, chilled or frozen","380","Italy","2018","2018",NA
+"21152","Edible offal of buffalo, fresh, chilled or frozen","380","Italy","2019","2019",NA
+"21152","Edible offal of buffalo, fresh, chilled or frozen","380","Italy","2020","2020",NA
+"21153","Edible offal of pigs, fresh, chilled or frozen","380","Italy","2015","2015",NA
+"21153","Edible offal of pigs, fresh, chilled or frozen","380","Italy","2016","2016",NA
+"21153","Edible offal of pigs, fresh, chilled or frozen","380","Italy","2017","2017",NA
+"21153","Edible offal of pigs, fresh, chilled or frozen","380","Italy","2018","2018",NA
+"21153","Edible offal of pigs, fresh, chilled or frozen","380","Italy","2019","2019",NA
+"21153","Edible offal of pigs, fresh, chilled or frozen","380","Italy","2020","2020",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","4","Afghanistan","2015","2015",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","380","Italy","2015","2015",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","4","Afghanistan","2016","2016",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","380","Italy","2016","2016",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","4","Afghanistan","2017","2017",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","380","Italy","2017","2017",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","4","Afghanistan","2018","2018",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","380","Italy","2018","2018",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","4","Afghanistan","2019","2019",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","380","Italy","2019","2019",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","4","Afghanistan","2020","2020",NA
+"21155","Edible offal of sheep, fresh, chilled or frozen","380","Italy","2020","2020",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","4","Afghanistan","2015","2015",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","380","Italy","2015","2015",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","4","Afghanistan","2016","2016",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","380","Italy","2016","2016",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","4","Afghanistan","2017","2017",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","380","Italy","2017","2017",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","4","Afghanistan","2018","2018",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","380","Italy","2018","2018",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","4","Afghanistan","2019","2019",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","380","Italy","2019","2019",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","4","Afghanistan","2020","2020",NA
+"21156","Edible offal of goat, fresh, chilled or frozen","380","Italy","2020","2020",NA
+"21159.01","Edible offals of horses and other equines,  fresh, chilled or frozen","380","Italy","2015","2015",NA
+"21159.01","Edible offals of horses and other equines,  fresh, chilled or frozen","380","Italy","2016","2016",NA
+"21159.01","Edible offals of horses and other equines,  fresh, chilled or frozen","380","Italy","2017","2017",NA
+"21159.01","Edible offals of horses and other equines,  fresh, chilled or frozen","380","Italy","2018","2018",NA
+"21159.01","Edible offals of horses and other equines,  fresh, chilled or frozen","380","Italy","2019","2019",NA
+"21159.01","Edible offals of horses and other equines,  fresh, chilled or frozen","380","Italy","2020","2020",NA
+"21159.02","Edible offals of camels and other camelids, fresh, chilled or frozen","4","Afghanistan","2015","2015",NA
+"21159.02","Edible offals of camels and other camelids, fresh, chilled or frozen","4","Afghanistan","2016","2016",NA
+"21159.02","Edible offals of camels and other camelids, fresh, chilled or frozen","4","Afghanistan","2017","2017",NA
+"21159.02","Edible offals of camels and other camelids, fresh, chilled or frozen","4","Afghanistan","2018","2018",NA
+"21159.02","Edible offals of camels and other camelids, fresh, chilled or frozen","4","Afghanistan","2019","2019",NA
+"21159.02","Edible offals of camels and other camelids, fresh, chilled or frozen","4","Afghanistan","2020","2020",NA
+"21170.01","Meat of pigeons and other birds n.e., fresh or chilled","380","Italy","2015","2015",16684.547496
+"21170.01","Meat of pigeons and other birds n.e., fresh or chilled","380","Italy","2016","2016",16684.547496
+"21170.01","Meat of pigeons and other birds n.e., fresh or chilled","380","Italy","2017","2017",16684.547496
+"21170.01","Meat of pigeons and other birds n.e., fresh or chilled","380","Italy","2018","2018",16684.547496
+"21170.01","Meat of pigeons and other birds n.e., fresh or chilled","380","Italy","2019","2019",16684.547496
+"21170.01","Meat of pigeons and other birds n.e., fresh or chilled","380","Italy","2020","2020",16684.547496
+"21170.02","Game meat, fresh or chilled","4","Afghanistan","2015","2015",21469.611473424
+"21170.02","Game meat, fresh or chilled","4","Afghanistan","2016","2016",21461.552309958
+"21170.02","Game meat, fresh or chilled","4","Afghanistan","2017","2017",21477.67063689
+"21170.02","Game meat, fresh or chilled","4","Afghanistan","2018","2018",21493.788963822
+"21170.02","Game meat, fresh or chilled","4","Afghanistan","2019","2019",21504.53451511
+"21170.02","Game meat, fresh or chilled","4","Afghanistan","2020","2020",21515.280066398
+"21170.92","Other meat n.e. (excluding mammals)","380","Italy","2015","2015",44958.40707321
+"21170.92","Other meat n.e. (excluding mammals)","380","Italy","2016","2016",45321.734972395
+"21170.92","Other meat n.e. (excluding mammals)","380","Italy","2017","2017",45780.835497725
+"21170.92","Other meat n.e. (excluding mammals)","380","Italy","2018","2018",45353.65918111
+"21170.92","Other meat n.e. (excluding mammals)","380","Italy","2019","2019",45353.65918111
+"21170.92","Other meat n.e. (excluding mammals)","380","Italy","2020","2020",45353.65918111
+"21511.01","Fat of pigs","380","Italy","2015","2015",NA
+"21511.01","Fat of pigs","380","Italy","2016","2016",NA
+"21511.01","Fat of pigs","380","Italy","2017","2017",NA
+"21511.01","Fat of pigs","380","Italy","2018","2018",NA
+"21511.01","Fat of pigs","380","Italy","2019","2019",NA
+"21511.01","Fat of pigs","380","Italy","2020","2020",NA
+"21512","Cattle fat, unrendered","4","Afghanistan","2015","2015",NA
+"21512","Cattle fat, unrendered","380","Italy","2015","2015",NA
+"21512","Cattle fat, unrendered","4","Afghanistan","2016","2016",NA
+"21512","Cattle fat, unrendered","380","Italy","2016","2016",NA
+"21512","Cattle fat, unrendered","4","Afghanistan","2017","2017",NA
+"21512","Cattle fat, unrendered","380","Italy","2017","2017",NA
+"21512","Cattle fat, unrendered","4","Afghanistan","2018","2018",NA
+"21512","Cattle fat, unrendered","380","Italy","2018","2018",NA
+"21512","Cattle fat, unrendered","4","Afghanistan","2019","2019",NA
+"21512","Cattle fat, unrendered","380","Italy","2019","2019",NA
+"21512","Cattle fat, unrendered","4","Afghanistan","2020","2020",NA
+"21512","Cattle fat, unrendered","380","Italy","2020","2020",NA
+"21513","Buffalo fat, unrendered","380","Italy","2015","2015",NA
+"21513","Buffalo fat, unrendered","380","Italy","2016","2016",NA
+"21513","Buffalo fat, unrendered","380","Italy","2017","2017",NA
+"21513","Buffalo fat, unrendered","380","Italy","2018","2018",NA
+"21513","Buffalo fat, unrendered","380","Italy","2019","2019",NA
+"21513","Buffalo fat, unrendered","380","Italy","2020","2020",NA
+"21514","Sheep fat, unrendered","4","Afghanistan","2015","2015",NA
+"21514","Sheep fat, unrendered","380","Italy","2015","2015",NA
+"21514","Sheep fat, unrendered","4","Afghanistan","2016","2016",NA
+"21514","Sheep fat, unrendered","380","Italy","2016","2016",NA
+"21514","Sheep fat, unrendered","4","Afghanistan","2017","2017",NA
+"21514","Sheep fat, unrendered","380","Italy","2017","2017",NA
+"21514","Sheep fat, unrendered","4","Afghanistan","2018","2018",NA
+"21514","Sheep fat, unrendered","380","Italy","2018","2018",NA
+"21514","Sheep fat, unrendered","4","Afghanistan","2019","2019",NA
+"21514","Sheep fat, unrendered","380","Italy","2019","2019",NA
+"21514","Sheep fat, unrendered","4","Afghanistan","2020","2020",NA
+"21514","Sheep fat, unrendered","380","Italy","2020","2020",NA
+"21515","Goat fat, unrendered","4","Afghanistan","2015","2015",NA
+"21515","Goat fat, unrendered","380","Italy","2015","2015",NA
+"21515","Goat fat, unrendered","4","Afghanistan","2016","2016",NA
+"21515","Goat fat, unrendered","380","Italy","2016","2016",NA
+"21515","Goat fat, unrendered","4","Afghanistan","2017","2017",NA
+"21515","Goat fat, unrendered","380","Italy","2017","2017",NA
+"21515","Goat fat, unrendered","4","Afghanistan","2018","2018",NA
+"21515","Goat fat, unrendered","380","Italy","2018","2018",NA
+"21515","Goat fat, unrendered","4","Afghanistan","2019","2019",NA
+"21515","Goat fat, unrendered","380","Italy","2019","2019",NA
+"21515","Goat fat, unrendered","4","Afghanistan","2020","2020",NA
+"21515","Goat fat, unrendered","380","Italy","2020","2020",NA
+"21519.02","Fat of camels","4","Afghanistan","2015","2015",NA
+"21519.02","Fat of camels","4","Afghanistan","2016","2016",NA
+"21519.02","Fat of camels","4","Afghanistan","2017","2017",NA
+"21519.02","Fat of camels","4","Afghanistan","2018","2018",NA
+"21519.02","Fat of camels","4","Afghanistan","2019","2019",NA
+"21519.02","Fat of camels","4","Afghanistan","2020","2020",NA
+"21521","Pig fat, rendered","380","Italy","2015","2015",NA
+"21521","Pig fat, rendered","380","Italy","2016","2016",NA
+"21521","Pig fat, rendered","380","Italy","2017","2017",NA
+"21521","Pig fat, rendered","380","Italy","2018","2018",NA
+"21521","Pig fat, rendered","380","Italy","2019","2019",NA
+"21521","Pig fat, rendered","380","Italy","2020","2020",NA
+"21523","Tallow","380","Italy","2015","2015",NA
+"21523","Tallow","380","Italy","2016","2016",NA
+"21523","Tallow","380","Italy","2017","2017",NA
+"21523","Tallow","380","Italy","2018","2018",NA
+"21523","Tallow","380","Italy","2019","2019",NA
+"21523","Tallow","380","Italy","2020","2020",NA
+"2161","Soya bean oil","380","Italy","2015","2015",NA
+"2161","Soya bean oil","380","Italy","2016","2016",NA
+"2161","Soya bean oil","380","Italy","2017","2017",NA
+"2161","Soya bean oil","380","Italy","2018","2018",NA
+"2161","Soya bean oil","380","Italy","2019","2019",NA
+"2161","Soya bean oil","380","Italy","2020","2020",NA
+"2162","Groundnut oil","380","Italy","2015","2015",NA
+"2162","Groundnut oil","380","Italy","2016","2016",NA
+"2162","Groundnut oil","380","Italy","2017","2017",NA
+"2162","Groundnut oil","380","Italy","2018","2018",NA
+"2162","Groundnut oil","380","Italy","2019","2019",NA
+"2162","Groundnut oil","380","Italy","2020","2020",NA
+"21631.01","Sunflower-seed oil, crude","380","Italy","2015","2015",NA
+"21631.01","Sunflower-seed oil, crude","4","Afghanistan","2015","2015",NA
+"21631.01","Sunflower-seed oil, crude","380","Italy","2016","2016",NA
+"21631.01","Sunflower-seed oil, crude","4","Afghanistan","2016","2016",NA
+"21631.01","Sunflower-seed oil, crude","380","Italy","2017","2017",NA
+"21631.01","Sunflower-seed oil, crude","4","Afghanistan","2017","2017",NA
+"21631.01","Sunflower-seed oil, crude","380","Italy","2018","2018",NA
+"21631.01","Sunflower-seed oil, crude","4","Afghanistan","2018","2018",NA
+"21631.01","Sunflower-seed oil, crude","380","Italy","2019","2019",NA
+"21631.01","Sunflower-seed oil, crude","4","Afghanistan","2019","2019",NA
+"21631.01","Sunflower-seed oil, crude","380","Italy","2020","2020",NA
+"21631.01","Sunflower-seed oil, crude","4","Afghanistan","2020","2020",NA
+"21631.02","Safflower-seed oil, crude","380","Italy","2015","2015",NA
+"21631.02","Safflower-seed oil, crude","380","Italy","2016","2016",NA
+"21631.02","Safflower-seed oil, crude","380","Italy","2017","2017",NA
+"21631.02","Safflower-seed oil, crude","380","Italy","2018","2018",NA
+"21631.02","Safflower-seed oil, crude","380","Italy","2019","2019",NA
+"21631.02","Safflower-seed oil, crude","380","Italy","2020","2020",NA
+"21641.01","Rapeseed or canola oil, crude","380","Italy","2015","2015",NA
+"21641.01","Rapeseed or canola oil, crude","380","Italy","2016","2016",NA
+"21641.01","Rapeseed or canola oil, crude","380","Italy","2017","2017",NA
+"21641.01","Rapeseed or canola oil, crude","380","Italy","2018","2018",NA
+"21641.01","Rapeseed or canola oil, crude","380","Italy","2019","2019",NA
+"21641.01","Rapeseed or canola oil, crude","380","Italy","2020","2020",NA
+"2166","Coconut oil","380","Italy","2015","2015",NA
+"2166","Coconut oil","380","Italy","2016","2016",NA
+"2166","Coconut oil","380","Italy","2017","2017",NA
+"2166","Coconut oil","380","Italy","2018","2018",NA
+"2166","Coconut oil","380","Italy","2019","2019",NA
+"2166","Coconut oil","380","Italy","2020","2020",NA
+"2167","Olive oil","380","Italy","2015","2015",1923492.53105705
+"2167","Olive oil","4","Afghanistan","2015","2015",2801.237141052
+"2167","Olive oil","380","Italy","2016","2016",1177189.37464828
+"2167","Olive oil","4","Afghanistan","2016","2016",2919.432801012
+"2167","Olive oil","380","Italy","2017","2017",1619906.97844979
+"2167","Olive oil","4","Afghanistan","2017","2017",3006.109618316
+"2167","Olive oil","380","Italy","2018","2018",1143472.09271702
+"2167","Olive oil","4","Afghanistan","2018","2018",3199.162529584
+"2167","Olive oil","380","Italy","2019","2019",1326080.44749989
+"2167","Olive oil","4","Afghanistan","2019","2019",3297.658912884
+"2167","Olive oil","380","Italy","2020","2020",1363154.48617401
+"2167","Olive oil","4","Afghanistan","2020","2020",3167.643686928
+"2168","Cottonseed oil","380","Italy","2015","2015",NA
+"2168","Cottonseed oil","4","Afghanistan","2015","2015",NA
+"2168","Cottonseed oil","380","Italy","2016","2016",NA
+"2168","Cottonseed oil","4","Afghanistan","2016","2016",NA
+"2168","Cottonseed oil","380","Italy","2017","2017",NA
+"2168","Cottonseed oil","4","Afghanistan","2017","2017",NA
+"2168","Cottonseed oil","380","Italy","2018","2018",NA
+"2168","Cottonseed oil","4","Afghanistan","2018","2018",NA
+"2168","Cottonseed oil","380","Italy","2019","2019",NA
+"2168","Cottonseed oil","4","Afghanistan","2019","2019",NA
+"2168","Cottonseed oil","380","Italy","2020","2020",NA
+"2168","Cottonseed oil","4","Afghanistan","2020","2020",NA
+"21691.02","Oil of Maize","380","Italy","2015","2015",NA
+"21691.02","Oil of Maize","380","Italy","2016","2016",NA
+"21691.02","Oil of Maize","380","Italy","2017","2017",NA
+"21691.02","Oil of Maize","380","Italy","2018","2018",NA
+"21691.02","Oil of Maize","380","Italy","2019","2019",NA
+"21691.02","Oil of Maize","380","Italy","2020","2020",NA
+"21691.07","Oil of Sesame Seed","380","Italy","2015","2015",NA
+"21691.07","Oil of Sesame Seed","4","Afghanistan","2015","2015",NA
+"21691.07","Oil of Sesame Seed","380","Italy","2016","2016",NA
+"21691.07","Oil of Sesame Seed","4","Afghanistan","2016","2016",NA
+"21691.07","Oil of Sesame Seed","380","Italy","2017","2017",NA
+"21691.07","Oil of Sesame Seed","4","Afghanistan","2017","2017",NA
+"21691.07","Oil of Sesame Seed","380","Italy","2018","2018",NA
+"21691.07","Oil of Sesame Seed","4","Afghanistan","2018","2018",NA
+"21691.07","Oil of Sesame Seed","380","Italy","2019","2019",NA
+"21691.07","Oil of Sesame Seed","4","Afghanistan","2019","2019",NA
+"21691.07","Oil of Sesame Seed","380","Italy","2020","2020",NA
+"21691.07","Oil of Sesame Seed","4","Afghanistan","2020","2020",NA
+"21691.12","Oil of Linseed","380","Italy","2015","2015",NA
+"21691.12","Oil of Linseed","4","Afghanistan","2015","2015",NA
+"21691.12","Oil of Linseed","380","Italy","2016","2016",NA
+"21691.12","Oil of Linseed","4","Afghanistan","2016","2016",NA
+"21691.12","Oil of Linseed","380","Italy","2017","2017",NA
+"21691.12","Oil of Linseed","4","Afghanistan","2017","2017",NA
+"21691.12","Oil of Linseed","380","Italy","2018","2018",NA
+"21691.12","Oil of Linseed","4","Afghanistan","2018","2018",NA
+"21691.12","Oil of Linseed","380","Italy","2019","2019",NA
+"21691.12","Oil of Linseed","4","Afghanistan","2019","2019",NA
+"21691.12","Oil of Linseed","380","Italy","2020","2020",NA
+"21691.12","Oil of Linseed","4","Afghanistan","2020","2020",NA
+"21691.14","Oil of Palm Kernel","380","Italy","2015","2015",NA
+"21691.14","Oil of Palm Kernel","380","Italy","2016","2016",NA
+"21691.14","Oil of Palm Kernel","380","Italy","2017","2017",NA
+"21691.14","Oil of Palm Kernel","380","Italy","2018","2018",NA
+"21691.14","Oil of Palm Kernel","380","Italy","2019","2019",NA
+"21691.14","Oil of Palm Kernel","380","Italy","2020","2020",NA
+"21700.02","Margarine and Shortening","380","Italy","2015","2015",NA
+"21700.02","Margarine and Shortening","380","Italy","2016","2016",NA
+"21700.02","Margarine and Shortening","380","Italy","2017","2017",NA
+"21700.02","Margarine and Shortening","380","Italy","2018","2018",NA
+"21700.02","Margarine and Shortening","380","Italy","2019","2019",NA
+"21700.02","Margarine and Shortening","380","Italy","2020","2020",NA
+"22110.02","Skim Milk of Cows","380","Italy","2015","2015",NA
+"22110.02","Skim Milk of Cows","4","Afghanistan","2015","2015",NA
+"22110.02","Skim Milk of Cows","380","Italy","2016","2016",NA
+"22110.02","Skim Milk of Cows","4","Afghanistan","2016","2016",NA
+"22110.02","Skim Milk of Cows","380","Italy","2017","2017",NA
+"22110.02","Skim Milk of Cows","4","Afghanistan","2017","2017",NA
+"22110.02","Skim Milk of Cows","380","Italy","2018","2018",NA
+"22110.02","Skim Milk of Cows","4","Afghanistan","2018","2018",NA
+"22110.02","Skim Milk of Cows","380","Italy","2019","2019",NA
+"22110.02","Skim Milk of Cows","4","Afghanistan","2019","2019",NA
+"22110.02","Skim Milk of Cows","380","Italy","2020","2020",NA
+"22110.02","Skim Milk of Cows","4","Afghanistan","2020","2020",NA
+"22120","Cream, fresh","380","Italy","2015","2015",NA
+"22120","Cream, fresh","380","Italy","2016","2016",NA
+"22120","Cream, fresh","380","Italy","2017","2017",NA
+"22120","Cream, fresh","380","Italy","2018","2018",NA
+"22120","Cream, fresh","380","Italy","2019","2019",NA
+"22120","Cream, fresh","380","Italy","2020","2020",NA
+"22130.02","Dry Whey","380","Italy","2015","2015",NA
+"22130.02","Dry Whey","380","Italy","2016","2016",NA
+"22130.02","Dry Whey","380","Italy","2017","2017",NA
+"22130.02","Dry Whey","380","Italy","2018","2018",NA
+"22130.02","Dry Whey","380","Italy","2019","2019",NA
+"22130.02","Dry Whey","380","Italy","2020","2020",NA
+"22130.03","Whey, Condensed","380","Italy","2015","2015",NA
+"22130.03","Whey, Condensed","380","Italy","2016","2016",NA
+"22130.03","Whey, Condensed","380","Italy","2017","2017",NA
+"22130.03","Whey, Condensed","380","Italy","2018","2018",NA
+"22130.03","Whey, Condensed","380","Italy","2019","2019",NA
+"22130.03","Whey, Condensed","380","Italy","2020","2020",NA
+"22211","Whole milk powder","380","Italy","2015","2015",NA
+"22211","Whole milk powder","380","Italy","2016","2016",NA
+"22211","Whole milk powder","380","Italy","2017","2017",NA
+"22211","Whole milk powder","380","Italy","2018","2018",NA
+"22211","Whole milk powder","380","Italy","2019","2019",NA
+"22211","Whole milk powder","380","Italy","2020","2020",NA
+"22221.01","Whole Milk, Evaporated","380","Italy","2015","2015",NA
+"22221.01","Whole Milk, Evaporated","380","Italy","2016","2016",NA
+"22221.01","Whole Milk, Evaporated","380","Italy","2017","2017",NA
+"22221.01","Whole Milk, Evaporated","380","Italy","2018","2018",NA
+"22221.01","Whole Milk, Evaporated","380","Italy","2019","2019",NA
+"22221.01","Whole Milk, Evaporated","380","Italy","2020","2020",NA
+"22241.01","Butter of Cow Milk","380","Italy","2015","2015",NA
+"22241.01","Butter of Cow Milk","4","Afghanistan","2015","2015",NA
+"22241.01","Butter of Cow Milk","380","Italy","2016","2016",NA
+"22241.01","Butter of Cow Milk","4","Afghanistan","2016","2016",NA
+"22241.01","Butter of Cow Milk","380","Italy","2017","2017",NA
+"22241.01","Butter of Cow Milk","4","Afghanistan","2017","2017",NA
+"22241.01","Butter of Cow Milk","380","Italy","2018","2018",NA
+"22241.01","Butter of Cow Milk","4","Afghanistan","2018","2018",NA
+"22241.01","Butter of Cow Milk","380","Italy","2019","2019",NA
+"22241.01","Butter of Cow Milk","4","Afghanistan","2019","2019",NA
+"22241.01","Butter of Cow Milk","380","Italy","2020","2020",NA
+"22241.01","Butter of Cow Milk","4","Afghanistan","2020","2020",NA
+"22249.01","Butter and Ghee of Sheep Milk","4","Afghanistan","2015","2015",NA
+"22249.01","Butter and Ghee of Sheep Milk","4","Afghanistan","2016","2016",NA
+"22249.01","Butter and Ghee of Sheep Milk","4","Afghanistan","2017","2017",NA
+"22249.01","Butter and Ghee of Sheep Milk","4","Afghanistan","2018","2018",NA
+"22249.01","Butter and Ghee of Sheep Milk","4","Afghanistan","2019","2019",NA
+"22249.01","Butter and Ghee of Sheep Milk","4","Afghanistan","2020","2020",NA
+"22251.01","Cheese from Whole Cow Milk","380","Italy","2015","2015",NA
+"22251.01","Cheese from Whole Cow Milk","380","Italy","2016","2016",NA
+"22251.01","Cheese from Whole Cow Milk","380","Italy","2017","2017",NA
+"22251.01","Cheese from Whole Cow Milk","380","Italy","2018","2018",NA
+"22251.01","Cheese from Whole Cow Milk","380","Italy","2019","2019",NA
+"22251.01","Cheese from Whole Cow Milk","380","Italy","2020","2020",NA
+"22251.02","Cheese from Skimmed Cow Milk","380","Italy","2015","2015",NA
+"22251.02","Cheese from Skimmed Cow Milk","380","Italy","2016","2016",NA
+"22251.02","Cheese from Skimmed Cow Milk","380","Italy","2017","2017",NA
+"22251.02","Cheese from Skimmed Cow Milk","380","Italy","2018","2018",NA
+"22251.02","Cheese from Skimmed Cow Milk","380","Italy","2019","2019",NA
+"22251.02","Cheese from Skimmed Cow Milk","380","Italy","2020","2020",NA
+"22252","Cheese from milk of buffalo, fresh or processed","380","Italy","2015","2015",NA
+"22252","Cheese from milk of buffalo, fresh or processed","380","Italy","2016","2016",NA
+"22252","Cheese from milk of buffalo, fresh or processed","380","Italy","2017","2017",NA
+"22252","Cheese from milk of buffalo, fresh or processed","380","Italy","2018","2018",NA
+"22252","Cheese from milk of buffalo, fresh or processed","380","Italy","2019","2019",NA
+"22252","Cheese from milk of buffalo, fresh or processed","380","Italy","2020","2020",NA
+"22253","Cheese from milk of sheep, fresh or processed","380","Italy","2015","2015",NA
+"22253","Cheese from milk of sheep, fresh or processed","4","Afghanistan","2015","2015",NA
+"22253","Cheese from milk of sheep, fresh or processed","380","Italy","2016","2016",NA
+"22253","Cheese from milk of sheep, fresh or processed","4","Afghanistan","2016","2016",NA
+"22253","Cheese from milk of sheep, fresh or processed","380","Italy","2017","2017",NA
+"22253","Cheese from milk of sheep, fresh or processed","4","Afghanistan","2017","2017",NA
+"22253","Cheese from milk of sheep, fresh or processed","380","Italy","2018","2018",NA
+"22253","Cheese from milk of sheep, fresh or processed","4","Afghanistan","2018","2018",NA
+"22253","Cheese from milk of sheep, fresh or processed","380","Italy","2019","2019",NA
+"22253","Cheese from milk of sheep, fresh or processed","4","Afghanistan","2019","2019",NA
+"22253","Cheese from milk of sheep, fresh or processed","380","Italy","2020","2020",NA
+"22253","Cheese from milk of sheep, fresh or processed","4","Afghanistan","2020","2020",NA
+"22254","Cheese from milk of goats, fresh or processed","380","Italy","2015","2015",NA
+"22254","Cheese from milk of goats, fresh or processed","4","Afghanistan","2015","2015",NA
+"22254","Cheese from milk of goats, fresh or processed","380","Italy","2016","2016",NA
+"22254","Cheese from milk of goats, fresh or processed","4","Afghanistan","2016","2016",NA
+"22254","Cheese from milk of goats, fresh or processed","380","Italy","2017","2017",NA
+"22254","Cheese from milk of goats, fresh or processed","4","Afghanistan","2017","2017",NA
+"22254","Cheese from milk of goats, fresh or processed","380","Italy","2018","2018",NA
+"22254","Cheese from milk of goats, fresh or processed","4","Afghanistan","2018","2018",NA
+"22254","Cheese from milk of goats, fresh or processed","380","Italy","2019","2019",NA
+"22254","Cheese from milk of goats, fresh or processed","4","Afghanistan","2019","2019",NA
+"22254","Cheese from milk of goats, fresh or processed","380","Italy","2020","2020",NA
+"22254","Cheese from milk of goats, fresh or processed","4","Afghanistan","2020","2020",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","380","Italy","2015","2015",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","4","Afghanistan","2015","2015",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","380","Italy","2016","2016",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","4","Afghanistan","2016","2016",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","380","Italy","2017","2017",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","4","Afghanistan","2017","2017",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","380","Italy","2018","2018",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","4","Afghanistan","2018","2018",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","380","Italy","2019","2019",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","4","Afghanistan","2019","2019",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","380","Italy","2020","2020",NA
+"2351f","Raw cane or beet sugar (centrifugal only)","4","Afghanistan","2020","2020",NA
+"23540","Molasses (from beet, cane and maize)","380","Italy","2015","2015",NA
+"23540","Molasses (from beet, cane and maize)","4","Afghanistan","2015","2015",NA
+"23540","Molasses (from beet, cane and maize)","380","Italy","2016","2016",NA
+"23540","Molasses (from beet, cane and maize)","4","Afghanistan","2016","2016",NA
+"23540","Molasses (from beet, cane and maize)","380","Italy","2017","2017",NA
+"23540","Molasses (from beet, cane and maize)","4","Afghanistan","2017","2017",NA
+"23540","Molasses (from beet, cane and maize)","380","Italy","2018","2018",NA
+"23540","Molasses (from beet, cane and maize)","4","Afghanistan","2018","2018",NA
+"23540","Molasses (from beet, cane and maize)","380","Italy","2019","2019",NA
+"23540","Molasses (from beet, cane and maize)","4","Afghanistan","2019","2019",NA
+"23540","Molasses (from beet, cane and maize)","380","Italy","2020","2020",NA
+"23540","Molasses (from beet, cane and maize)","4","Afghanistan","2020","2020",NA
+"24212.02","Wine","380","Italy","2015","2015",9999565.09338985
+"24212.02","Wine","380","Italy","2016","2016",10588905.3012677
+"24212.02","Wine","380","Italy","2017","2017",8991587.83928633
+"24212.02","Wine","380","Italy","2018","2018",11108865.87204
+"24212.02","Wine","380","Italy","2019","2019",10098502.72486
+"24212.02","Wine","380","Italy","2020","2020",10066318.8120621
+"24310.01","Beer of Barley, malted","380","Italy","2015","2015",NA
+"24310.01","Beer of Barley, malted","380","Italy","2016","2016",NA
+"24310.01","Beer of Barley, malted","380","Italy","2017","2017",NA
+"24310.01","Beer of Barley, malted","380","Italy","2018","2018",NA
+"24310.01","Beer of Barley, malted","380","Italy","2019","2019",NA
+"24310.01","Beer of Barley, malted","380","Italy","2020","2020",NA
+"26110","Raw silk (not thrown)","380","Italy","2015","2015",NA
+"26110","Raw silk (not thrown)","4","Afghanistan","2015","2015",NA
+"26110","Raw silk (not thrown)","380","Italy","2016","2016",NA
+"26110","Raw silk (not thrown)","4","Afghanistan","2016","2016",NA
+"26110","Raw silk (not thrown)","380","Italy","2017","2017",NA
+"26110","Raw silk (not thrown)","4","Afghanistan","2017","2017",NA
+"26110","Raw silk (not thrown)","380","Italy","2018","2018",NA
+"26110","Raw silk (not thrown)","4","Afghanistan","2018","2018",NA
+"26110","Raw silk (not thrown)","380","Italy","2019","2019",NA
+"26110","Raw silk (not thrown)","4","Afghanistan","2019","2019",NA
+"26110","Raw silk (not thrown)","380","Italy","2020","2020",NA
+"26110","Raw silk (not thrown)","4","Afghanistan","2020","2020",NA
+"26190.01","Flax fibre and tow","380","Italy","2015","2015",804.423199437
+"26190.01","Flax fibre and tow","380","Italy","2016","2016",1233.823928274
+"26190.01","Flax fibre and tow","380","Italy","2017","2017",4744.03425309
+"26190.01","Flax fibre and tow","380","Italy","2018","2018",2981.42864127
+"26190.01","Flax fibre and tow","380","Italy","2019","2019",3675.22021188
+"26190.01","Flax fibre and tow","380","Italy","2020","2020",2287.63707066
+"F0030",NA,"380","Italy","2015","2015",NA
+"F0030",NA,"4","Afghanistan","2015","2015",NA
+"F0030",NA,"380","Italy","2016","2016",NA
+"F0030",NA,"4","Afghanistan","2016","2016",NA
+"F0030",NA,"380","Italy","2017","2017",NA
+"F0030",NA,"4","Afghanistan","2017","2017",NA
+"F0030",NA,"380","Italy","2018","2018",NA
+"F0030",NA,"4","Afghanistan","2018","2018",NA
+"F0030",NA,"380","Italy","2019","2019",NA
+"F0030",NA,"4","Afghanistan","2019","2019",NA
+"F0030",NA,"380","Italy","2020","2020",NA
+"F0030",NA,"4","Afghanistan","2020","2020",NA

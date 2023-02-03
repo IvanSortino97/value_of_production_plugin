@@ -1,0 +1,10 @@
+current: QA
+QA:
+  certdir: ./sws/prod
+  server: https://sws.qa.aws.fao.org:8181
+  token: 0b775c49-3041-4189-89c6-b3e7ebef64e0 #new session, all selected
+
+production:
+  certdir: ./sws/prod
+  server: https://sws.aws.fao.org:8181 
+  token: 36dcf2be-87cd-4209-a521-beb93af43f0c #new session, all selected
