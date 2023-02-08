@@ -34,14 +34,14 @@ suppressMessages({
 if(CheckDebug()){
   
   library(faoswsModules)
-  SETT <- ReadSettings("~/Agriculture Production/module/Value of Agricultural Production/sws.yml")
+  SETT <- ReadSettings("~/Agriculture Production/module/Production Indices/sws.yml")
   SetClientFiles(SETT[["certdir"]])
   GetTestEnvironment(baseUrl = SETT[["server"]], token = SETT[["token"]])
   #source("~/Agriculture Production/module/Value of Agricultural Production/R function/gap_filler.R")
-  source("~/Agriculture Production/module/Value of Agricultural Production/R function/discard_year_list.R")
-  source("~/Agriculture Production/module/Value of Agricultural Production/R function/data_production.R")
-  source("~/Agriculture Production/module/Value of Agricultural Production/R function/data_prices.R")
-  source("~/Agriculture Production/module/Value of Agricultural Production/R function/auth_check.R")
+  source("~/Agriculture Production/module/Production Indices/R function/discard_year_list.R")
+  source("~/Agriculture Production/module/Production Indices/R function/data_production.R")
+  source("~/Agriculture Production/module/Production Indices/R function/data_prices.R")
+  source("~/Agriculture Production/module/Production Indices/R function/auth_check.R")
   
 }
 

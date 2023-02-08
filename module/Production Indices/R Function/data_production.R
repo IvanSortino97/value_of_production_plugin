@@ -14,14 +14,15 @@ countries <- countries[!countries == "156" ]
 ######### Remove also lines at the end of the function #########################
 ################################################################################
 
+indigenous_meat <- grep("i", vop_item$measuredItemCPC, value = T)
 
-idigenous_no_i <- gsub("i", "", vop_indigenous$measuredItemCPC)
+indigenous_no_i <- gsub("i", "", indigenous_meat)
 
 domain_ind = domain
 dataset_ind = dataset
 
 keys_geo_ind = sub("^0+","", as.character(countries)) #select countries of "aproduction_country" datatable, remove all the 0 before the code
-keys_item_ind = as.character(idigenous_no_i)
+keys_item_ind = as.character(indigenous_no_i)
 keys_year_ind = selected_years
 
 if (seed_feed == T ) {keys_elem_ind = c("55100","5520","5525")} else { keys_elem_ind = "55100" } # ind. production [t]
@@ -59,7 +60,7 @@ data_production_ind$measuredItemCPC = paste0(data_production_ind$measuredItemCPC
 domain_prod = domain
 dataset_prod = dataset
 
-item_no_meat = setdiff( vop_item$measuredItemCPC,  vop_indigenous$measuredItemCPC) # list of item without meat items
+item_no_meat = setdiff( vop_item$measuredItemCPC,  indigenous_meat) # list of item without meat items
 
 keys_geo = sub("^0+","", as.character(countries)) #select countries of "aproduction_country" datatable, remove all the 0 before the code
 keys_item = item_no_meat
