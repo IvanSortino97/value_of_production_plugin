@@ -88,7 +88,7 @@ tryCatch({
     
   } else if (param_source_prices == "diss"){
     
-    GetDatasetConfig("disseminated","annual_producer_prices_validation_diss", "pp")
+    GetDatasetConfig("disseminated","annual_producer_prices_validation_diss")
   }
   
   if ("434" %in% selected_element ){
@@ -104,6 +104,7 @@ tryCatch({
   message(print(e))
   stop()
 })
+
 
 # Get support datatable data -------------------------------------------------------
 
@@ -125,10 +126,6 @@ setnames(vop_country, "m49_code", "geographicAreaM49")
 vop_country_group <- ReadDatatable("aproduction_country_group", columns =  c("country_group_code","m49_code"))
 setnames(vop_country_group, "m49_code", "geographicAreaM49")
 
-
-# test PIN # Force Selection##################################################################################################################################################################
-selected_element<-c(selected_element,"432","434")
-##############################################################################################################################################################################################
 
 message(paste('Your Value of Agricultural Production Plugin is pulling data.'))
 
@@ -295,8 +292,11 @@ rm(data_price)
 
 message(paste('Your Value of Agricultural Production Plugin is calculating Gross Production Value.'))
   
-gross_production_value[ , Value := Production*Prices /1000]
+gross_production_value[ , Value := round(Production*Prices /1000, digits = 2)]
 gross_production_value[,  c('Production', 'Prices') := NULL]
+
+
+
 
 ### PINs ####
 
@@ -306,13 +306,17 @@ message(paste0('Your Value of Agricultural Production Plugin is calculating Gros
 
 gross_production_value <- split(gross_production_value, gross_production_value$measuredElement) 
 
+##Average Gross Production around base year
 # Check if all the three year range for the base year is in selected session's years
 if ( sum( base_year_range %in% selected_years ) == 3 ){
   
-  Gross_prod.avg <- gross_production_value$`432`[timePointYears %in% base_year_range, ]
-  Gross_prod.avg[ , Value := Production*Prices /1000]
-  Gross_prod.avg[,  c('Production', 'Prices') := NULL]
+  Gross_prod.avg <- merge(data_production[timePointYears %in% base_year_range ], vop_international_dollar, by = 'measuredItemCPC', all.x = TRUE)
+  Gross_prod.avg[,timePointYears.y := NULL]
+  setnames(Gross_prod.avg, "timePointYears.x" , "timePointYears" ) #change names
+  Gross_prod.avg[, Prices := as.numeric(Prices)]  
   
+  Gross_prod.avg[ , Value := round(Production*Prices /1000, digits = 2)] #Gross Production Value
+  Gross_prod.avg[,  c('Production', 'Prices') := NULL]
   
 } else {
   #compute the three year mean of gross production respect to the base year
@@ -328,13 +332,10 @@ if ( sum( base_year_range %in% selected_years ) == 3 ){
   setnames(Gross_prod.avg, "timePointYears.x" , "timePointYears" ) #change names
   Gross_prod.avg[, Prices := as.numeric(Prices)]  
   
-  Gross_prod.avg[ , Value := Production*Prices /1000] #Gross Production Value
+  Gross_prod.avg[ , Value := round(Production*Prices /1000, digits = 2)] #Gross Production Value
   Gross_prod.avg[,  c('Production', 'Prices') := NULL]
   
-  
 }
-
-
 
 #### Gross Production Index Number '432' ####
 
@@ -346,11 +347,11 @@ if ("432" %in% selected_element) {
   
   gross_production_value$`432` <- merge(gross_production_value$`432`,Gross_prod.432, 
                                         by = c("measuredItemCPC","geographicAreaM49"),
-                                        all.x = TRUE)  
+                                        all = TRUE)  
+  rm(Gross_prod.432)
   
-  gross_production_value$`432`[, Value := Value/Mean ]
+  gross_production_value$`432`[, Value := round(Value/Mean*100, digits = 2) ]
   gross_production_value$`432`[, Mean := NULL ]
-  
   
 }
 
@@ -368,7 +369,7 @@ pop <-  GetData(DatasetKey(
                 dataset =  dataset,
                 dimensions = list(
                   Dimension(name = "geographicAreaM49",
-                            keys = keys_geo ),
+                            keys = vop_country$geographicAreaM49 ),
                   Dimension(name = "measuredElement",
                             keys = "511" ),
                   Dimension(name = "timePointYears",
@@ -379,32 +380,45 @@ pop[,c("measuredElement", "flagObservationStatus" ,"flagMethod"):= NULL]
 
 return(pop) }    
 
-population <- data_pop
   
 if ( sum( base_year_range %in% selected_years ) == 3 ){
   
+  population <- data_pop("disseminated" , "population_disseminated" , years = selected_years)
   
+} else {
+  
+  population <- data_pop("disseminated" , "population_disseminated" , years =  unique(c(selected_years,base_year_range)) )
   
 }
   
+  #dividing element 152 by Total Population
+  gross_production_value$`434`<- merge( gross_production_value$`434`, population[timePointYears %in% selected_years], by = c( "geographicAreaM49", "timePointYears"), all.x = T)
+  gross_production_value$`434`[, Value := Value/Population*100 ]
+  gross_production_value$`434`[, Population := NULL]
+  
+  #then dividing by the average of element 152 divided by Total Population over the 3-year base period.
+  Gross_prod.434 <- Gross_prod.avg[, .(measuredItemCPC,geographicAreaM49,timePointYears,Value)]
+  Gross_prod.434 <- merge(Gross_prod.434, population[timePointYears %in% base_year_range], by = c( "geographicAreaM49", "timePointYears"), all.x = T)
+  Gross_prod.434[, Value := Value/Population*100 ]
+  Gross_prod.434[, Population := NULL]
+  Gross_prod.434 <- Gross_prod.434[, Mean := mean(Value), by = .(geographicAreaM49,measuredItemCPC)]
+  Gross_prod.434 <- Gross_prod.434[timePointYears == param_base_year,]
+  Gross_prod.434 <- Gross_prod.434[, c("Value","timePointYears") := NULL]
 
-  # Gross_prod.434 <- Gross_prod.avg
-  # 
-  # Gross_prod.434 <- Gross_prod.avg[, Mean := mean(Value), by = .(geographicAreaM49,measuredItemCPC)]
-  # Gross_prod.434 <- Gross_prod.434[timePointYears == param_base_year,]
-  # Gross_prod.434 <- Gross_prod.434[, c("Value","timePointYears") := NULL]
-  # 
-  # gross_production_value$`432` <- merge(gross_production_value$`432`,Gross_prod.434, 
-  #                                       by = c("measuredItemCPC","geographicAreaM49"),
-  #                                       all.x = TRUE)  
-  # 
-  # gross_production_value$`432`[, Value := Value/Mean ]
-  # gross_production_value$`432`[, Mean := NULL ]
+  gross_production_value$`434` <- merge(gross_production_value$`434`,Gross_prod.434,
+                                        by = c("measuredItemCPC","geographicAreaM49"),
+                                        all.x = TRUE)
+  rm(Gross_prod.434)
+
+  gross_production_value$`434`[, Value := round(Value/Mean*100, digits = 2) ]
+  gross_production_value$`434`[, Mean := NULL ]
   
 }
 
 
 gross_production_value <- do.call("rbind", gross_production_value)
+
+rm(list = c("Gross_prod.avg","population"))
 
 }#End PINs
 
@@ -566,21 +580,28 @@ if ( param_item_aggr == "item_single" & param_country_aggr == "country_single") 
 }
   
 
-save_data <- save_data[ !is.na(Value)]
+save_data <- save_data[ !is.na(Value) ]
 
-## adding base year as metadata
+## adding base year as metadata and saving data
 
-config <- GetDatasetConfig(swsContext.datasets[[1]]@domain, swsContext.datasets[[1]]@dataset)
-metadata <- save_data[, mget(config$dimensions)]
+if (any(c('55','57','58','152','154', '432', '434') %in% selected_element)) {
 
-metadata[measuredElement %in% c('55','57','58','152','154'), `:=`(Metadata = "GENERAL",
-                                         Metadata_Element = "COMMENT",
-                                         Metadata_Language = "en",
-                                         Metadata_Value = paste0("Base year: ",param_base_year))]
-                           
-
-save <- SaveData(domain = domain_, dataset = dataset_,
-                 data = save_data, metadata = metadata, waitTimeout = 100000)
+  config <- GetDatasetConfig(swsContext.datasets[[1]]@domain, swsContext.datasets[[1]]@dataset)
+  metadata <- save_data[, mget(config$dimensions)]
+  
+  metadata[measuredElement %in% c('55','57','58','152','154', '432', '434'), `:=`(Metadata = "GENERAL",
+                                           Metadata_Element = "COMMENT",
+                                           Metadata_Language = "en",
+                                           Metadata_Value = paste0("Base year: ",param_base_year))]
+                             
+  
+  save <- SaveData(domain = domain_, dataset = dataset_,
+                   data = save_data, metadata = metadata, waitTimeout = 100000)
+} else { 
+  
+  save <- SaveData(domain = domain_, dataset = dataset_,
+                  data = save_data, waitTimeout = 100000)
+}
 
 paste0("Your Value of Agricultural Production Plugin is completed successfully! ",
        save$inserted, " observations written, ",
