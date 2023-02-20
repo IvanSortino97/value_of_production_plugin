@@ -2,4 +2,4 @@ current: production
 production:
   certdir: ~/Agriculture Production/sws/prod
   server: https://sws.aws.fao.org:8181 
-  token: 96d1d2ea-253b-4bba-9ea8-6b4277f0ad94
+  token: 33c1cb59-f373-42e0-994d-a598775dd5ea
