@@ -6,10 +6,11 @@ data_prod <- function(domain,dataset, seed_feed = F , selected_years ){
 if ( CHINA_FIX == T ){
   
 countries <- vop_country$geographicAreaM49
-countries <- c(countries, "1248" )
-countries <- countries[!countries == "156" ]
-  
+countries[countries == "156" ] = "1248"
+
+
 }
+  
 
 ######### Remove also lines at the end of the function #########################
 ################################################################################
@@ -60,7 +61,11 @@ data_production_ind$measuredItemCPC = paste0(data_production_ind$measuredItemCPC
 domain_prod = domain
 dataset_prod = dataset
 
-item_no_meat = setdiff( vop_item$measuredItemCPC,  indigenous_meat) # list of item without meat items
+item_no_meat = setdiff(vop_item$measuredItemCPC, indigenous_meat) # list of item without meat items
+
+# Pull element 21170.92 [Other meat excluding mammals] from element 21119.90 [Other meats of mammals]
+
+item_no_meat[item_no_meat == "21170.92"] = "21119.90"
 
 keys_geo = sub("^0+","", as.character(countries)) #select countries of "aproduction_country" datatable, remove all the 0 before the code
 keys_item = item_no_meat
@@ -111,7 +116,6 @@ if ( seed_feed == T ) {
 } else { 
   setnames(data_production, "Value", "Production")
   data_production[,c( "measuredElement" ):= NULL]
-  
   }
 
 ################################################################################
@@ -122,6 +126,7 @@ if ( CHINA_FIX == T ){ data_production[geographicAreaM49 == "1248" ]$geographicA
 
 ################################################################################
 
+data_production[measuredItemCPC == "21119.90" ]$measuredItemCPC = "21170.92"
 
 return(data_production)
 }
