@@ -85,10 +85,7 @@ data_prices = function(price,domain,dataset){
     keys_geo = sub("^0+","", as.character(vop_country$geographicAreaM49))
     keys_elem = "5531" #SLC
     keys_item = as.character(vop_item$measuredItemCPC) #select items of "value_of_production_item" datatable
-    keys_year = c(
-      as.character(as.numeric(param_base_year)-1),
-      param_base_year,
-      as.character(as.numeric(param_base_year)+1))
+    keys_year = base_year_range
     
     production_keys <- DatasetKey(
       domain = domain_slc_avg,
@@ -124,6 +121,7 @@ data_prices = function(price,domain,dataset){
     return(data_SLC_avg)  
     
   }
+  
   if (price == "5535" ) {
     # Average USD
     domain_usd_avg = domain #'disseminated'
@@ -132,10 +130,7 @@ data_prices = function(price,domain,dataset){
     keys_geo = sub("^0+","", as.character(vop_country$geographicAreaM49))
     keys_elem = "5532" #USD
     keys_item = as.character(vop_item$measuredItemCPC) #select items of "value_of_production_item" datatable
-    keys_year = c(
-      as.character(as.numeric(param_base_year)-1),
-      param_base_year,
-      as.character(as.numeric(param_base_year)+1))
+    keys_year = base_year_range
     
     production_keys <- DatasetKey(
       domain = domain_usd_avg,
