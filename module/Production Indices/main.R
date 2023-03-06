@@ -519,12 +519,21 @@ message(paste('Your Value of Agricultural Production Plugin is calculating item-
     item_aggr.432 <- item_aggr.432[, list(Value = sum(Value, na.rm = TRUE)),by = c('measuredElement','geographicAreaM49', 'timePointYears', 'item_group_code') ]
     
     #calculate the Index number
+<<<<<<< HEAD
     item_aggr.432.fin <- copy(merge(item_aggr.432,item_aggr.432.avg,by=c("geographicAreaM49","item_group_code"), all.x = T ))
     item_aggr.432.fin[, Value := round(Value/Mean * 100, digits = 2)]
     item_aggr.432.fin[, Mean := NULL]
     
     #merge aggregate with other values
     gross_production_value_item_aggregate <- rbind(gross_production_value_item_aggregate, item_aggr.432.fin)
+=======
+    item_aggr.432 <- merge(item_aggr.432,item_aggr.432.avg,by=c("geographicAreaM49","item_group_code"))
+    item_aggr.432[, Value := round(Value/Mean * 100, digits = 2)]
+    item_aggr.432[, Mean := NULL]
+    
+    #merge aggregate with other values
+    gross_production_value_item_aggregate <- rbind(gross_production_value_item_aggregate, item_aggr.432)
+>>>>>>> 9fb12f6733589f00fc687e85d0d7188601aa8ec0
     
   } #end 432 aggregate 
   
@@ -539,12 +548,21 @@ message(paste('Your Value of Agricultural Production Plugin is calculating item-
     item_aggr.434 <- item_aggr.434[, list(Value = sum(Value, na.rm = TRUE)),by = c('measuredElement','geographicAreaM49', 'timePointYears', 'item_group_code') ]
     
     #calculate the Index number
+<<<<<<< HEAD
     item_aggr.434.fin <- copy(merge(item_aggr.434, item_aggr.434.avg, by=c("geographicAreaM49","item_group_code"), all.x =  T ))
     item_aggr.434.fin[, Value := round(Value/Mean * 100, digits = 2)]
     item_aggr.434.fin[, Mean := NULL]
     
     #merge aggregate with other values
     gross_production_value_item_aggregate <- rbind(gross_production_value_item_aggregate, item_aggr.434.fin)
+=======
+    item_aggr.434 <- merge(item_aggr.434,item_aggr.434.avg,by=c("geographicAreaM49","item_group_code"))
+    item_aggr.434[, Value := round(Value/Mean * 100, digits = 2)]
+    item_aggr.434[, Mean := NULL]
+    
+    #merge aggregate with other values
+    gross_production_value_item_aggregate <- rbind(gross_production_value_item_aggregate, item_aggr.434)
+>>>>>>> 9fb12f6733589f00fc687e85d0d7188601aa8ec0
     
   } #end 434 aggregate 
   
@@ -590,18 +608,33 @@ if ( "432" %in% selected_element){
   country_aggr.432.avg <- country_aggr.432.avg[, list(Mean = sum(Mean, na.rm = TRUE)),by = c('country_group_code','measuredItemCPC')]
   
   country_aggr.432 <- merge(country_aggr.432, vop_country_group, by = "geographicAreaM49", allow.cartesian = TRUE)
+<<<<<<< HEAD
   country_aggr.432 <- merge(country_aggr.432, discard_countries_year, by = c("geographicAreaM49", "timePointYears"), all.x = T)
+=======
+  country_aggr.432 <- merge(country_aggr.432, discard_countries_year,
+                            by = c("geographicAreaM49", "timePointYears"), all.x = T)
+>>>>>>> 9fb12f6733589f00fc687e85d0d7188601aa8ec0
   country_aggr.432 <- country_aggr.432[ is.na(remove)] # adjust the groups for each years
   country_aggr.432[, c("remove") := NULL]
   country_aggr.432 <- country_aggr.432[, list(Value = sum(Value, na.rm = TRUE)),by = c('measuredElement','country_group_code', 'timePointYears', 'measuredItemCPC')]
   
+<<<<<<< HEAD
   # #calculate the Index number
   country_aggr.432 <- merge(country_aggr.432, country_aggr.432.avg, by = c("country_group_code","measuredItemCPC"), all.x = T )
+=======
+  
+  # #calculate the Index number
+  country_aggr.432 <- merge(country_aggr.432, country_aggr.432.avg, by = c("country_group_code","measuredItemCPC") )
+>>>>>>> 9fb12f6733589f00fc687e85d0d7188601aa8ec0
   country_aggr.432[, Value := round(Value/Mean * 100, digits = 2)]
   country_aggr.432[, Mean := NULL]
   
   #merge aggregate with other values
+<<<<<<< HEAD
   gross_production_value_country_aggregate <- rbind(gross_production_value_country_aggregate, country_aggr.432)
+=======
+  gross_production_value_item_aggregate <- rbind(gross_production_value_country_aggregate, country_aggr.432)
+>>>>>>> 9fb12f6733589f00fc687e85d0d7188601aa8ec0
   
   }
 
@@ -616,13 +649,24 @@ if ( "434" %in% selected_element){
   country_aggr.434.avg <- country_aggr.434.avg[, list(Mean = sum(Mean, na.rm = TRUE)),by = c('country_group_code','measuredItemCPC')]
 
   country_aggr.434 <- merge(country_aggr.434, vop_country_group, by = "geographicAreaM49", allow.cartesian = TRUE)
+<<<<<<< HEAD
   country_aggr.434 <- merge(country_aggr.434, discard_countries_year, by = c("geographicAreaM49", "timePointYears"), all.x = T)
+=======
+  country_aggr.434 <- merge(country_aggr.434, discard_countries_year,
+                            by = c("geographicAreaM49", "timePointYears"), all.x = T)
+>>>>>>> 9fb12f6733589f00fc687e85d0d7188601aa8ec0
   country_aggr.434 <- country_aggr.434[ is.na(remove)] # adjust the groups for each years
   country_aggr.434[, c("remove") := NULL]
   country_aggr.434 <- country_aggr.434[, list(Value = sum(Value, na.rm = TRUE)),by = c('measuredElement','country_group_code', 'timePointYears', 'measuredItemCPC')]
 
+<<<<<<< HEAD
   #calculate the Index number
   country_aggr.434 <- merge(country_aggr.434, country_aggr.434.avg, by = c("country_group_code","measuredItemCPC"), all.x =  T )
+=======
+
+  # #calculate the Index number
+  country_aggr.434 <- merge(country_aggr.434, country_aggr.434.avg, by = c("country_group_code","measuredItemCPC") )
+>>>>>>> 9fb12f6733589f00fc687e85d0d7188601aa8ec0
   country_aggr.434[, Value := round(Value/Mean * 100, digits = 2)]
   country_aggr.434[, Mean := NULL]
 
@@ -751,7 +795,11 @@ if ( param_item_aggr == "item_single" & param_country_aggr == "country_single") 
 }
   
 
+<<<<<<< HEAD
 save_data <- save_data[is.finite(Value) & Value > 0 ]
+=======
+save_data <- save_data[! is.na(Value) & Value != 0 ]
+>>>>>>> 9fb12f6733589f00fc687e85d0d7188601aa8ec0
 
 ## adding base year as metadata and saving data
 
